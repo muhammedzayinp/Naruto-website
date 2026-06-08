@@ -1,0 +1,292 @@
+{
+  "Naruto Uzumaki": {
+    "clan": "Uzumaki",
+    "quote": "I never go back on my word — that's my ninja way!",
+    "features": ["Nine-Tails jinchuriki", "Unbreakable will"],
+    "lore": [
+      "Born to Minato Namikaze and Kushina Uzumaki, becoming an orphan on his first day of life.",
+      "Became the Jinchuriki of the Nine-Tails to protect the Hidden Leaf from destruction.",
+      "Endured years of isolation and loneliness to eventually earn the village's acknowledgement.",
+      "Mastered the Shadow Clone Jutsu and formed an unbreakable bond with Team 7.",
+      "Trained with Jiraiya of the Sannin to develop the Rasengan and master his inner chakra.",
+      "Achieved Sage Mode and defeated Pain, becoming the 'Hero of the Hidden Leaf'.",
+      "Befriended Kurama (the Nine-Tails) and united all Tailed Beasts in the Great War.",
+      "Received the Sage of Six Paths' power to defeat Kaguya Otsutsuki alongside Sasuke.",
+      "Broke the cycle of hatred by successfully bringing Sasuke back to the village.",
+      "Fulfilled his ultimate dream by becoming the Seventh Hokage of the Hidden Leaf."
+    ]
+  },
+  "Sasuke Uchiha": {
+    "clan": "Uchiha",
+    "quote": "I am an avenger.",
+    "features": ["Sharingan", "Lightning Style"],
+    "lore": [
+      "He is the younger brother of Itachi Uchiha.",
+      "He was the top student in Naruto's academy class.",
+      "He left the village to gain power from Orochimaru.",
+      "He mastered the Chidori and the Cursed Seal.",
+      "He eventually killed his brother Itachi.",
+      "He discovered the secret truth about the Uchiha clan.",
+      "He awakened the Rinnegan during the war.",
+      "He fought Naruto one last time at the Valley of the End.",
+      "He lost his left arm in that final battle.",
+      "He now travels the world protecting the leaf from afar."
+    ]
+  },
+  "Sakura Haruno": {
+    "clan": "Haruno",
+    "quote": "A smile is the easiest way out of a difficult situation.",
+    "features": ["Super Strength", "Medical Ninjutsu"],
+    "lore": [
+      "She was a member of Team 7 alongside Naruto Uzumaki and Sasuke Uchiha.",
+      "She trained under the Fifth Hokage, Tsunade.",
+      "She became one of the strongest medical ninja in the Hidden Leaf Village.",
+      "She mastered chakra-enhanced strength, allowing her to shatter the ground with a punch.",
+      "She played a key role in saving many lives during the Fourth Great Ninja War.",
+      "She awakened the Strength of a Hundred Seal after years of chakra control training.",
+      "She fought alongside Naruto and Sasuke against powerful enemies.",
+      "She helped defeat Kaguya Otsutsuki during the final stages of the war.",
+      "She later married Sasuke Uchiha.",
+      "She became the mother of Sarada Uchiha and continued serving as a leading medical ninja."
+    ]
+  },
+  "Kakashi Hatake": {
+    "clan": "Hatake",
+    "quote": "Those who break the rules are scum, but those who abandon their friends are worse than scum.",
+    "features": ["Sharingan", "Lightning Blade"],
+    "lore": [
+      "He is the son of the famous ninja Sakumo Hatake, known as the White Fang.",
+      "He became a Chunin at a very young age due to his exceptional talent.",
+      "He was a member of Team Minato alongside Obito Uchiha and Rin Nohara.",
+      "Obito gifted him a Sharingan after Kakashi lost his left eye during a mission.",
+      "He created the Lightning Blade (Raikiri), an advanced form of the Chidori.",
+      "He became known throughout the ninja world as the Copy Ninja Kakashi.",
+      "He served as the leader of Team 7, mentoring Naruto, Sasuke, and Sakura.",
+      "He played a major role in the Fourth Great Ninja War.",
+      "He temporarily awakened the Mangekyo Sharingan and used Kamui in battle.",
+      "After the war, he became the Sixth Hokage of the Hidden Leaf Village."
+    ]
+  },
+  "Itachi Uchiha": {
+    "clan": "Uchiha",
+    "quote": "People live their lives bound by what they accept as correct and true.",
+    "features": ["Mangekyo Sharingan", "Amaterasu"],
+    "lore": [
+      "He was a prodigy of the Uchiha clan and graduated from the academy at a very young age.",
+      "He became an ANBU captain while still a teenager.",
+      "He was the elder brother of Sasuke Uchiha.",
+      "He was ordered to eliminate the Uchiha clan to prevent a civil war.",
+      "He spared Sasuke and encouraged him to grow stronger.",
+      "He joined the Akatsuki as a double agent to protect the Hidden Leaf Village from the shadows.",
+      "He possessed the Mangekyo Sharingan and mastered powerful techniques such as Tsukuyomi and Amaterasu.",
+      "He was defeated by Sasuke in their long-awaited battle.",
+      "After being reincarnated during the Fourth Great Ninja War, he helped stop the Edo Tensei technique.",
+      "His true sacrifices and love for Sasuke were revealed after his death, making him one of the most respected shinobi in Naruto."
+    ]
+  },
+  "Gaara": {
+    "clan": "Kazekage Clan",
+    "quote": "A person grows up when he's able to overcome hardships.",
+    "features": ["Sand Manipulation", "One-Tail Jinchuriki"],
+    "lore": [
+      "He is the youngest son of the Fourth Kazekage of the Hidden Sand Village.",
+      "He was made the jinchuriki of Shukaku, the One-Tailed Beast, before birth.",
+      "He was feared and isolated by the people of his village during childhood.",
+      "He initially believed that only through killing could he prove his existence.",
+      "He fought Naruto Uzumaki during the Chunin Exams invasion.",
+      "Naruto's determination and friendship changed Gaara's outlook on life.",
+      "He became the Fifth Kazekage of the Hidden Sand Village at a young age.",
+      "He was captured by the Akatsuki and had Shukaku extracted from him.",
+      "He was revived through the sacrifice of Elder Chiyo.",
+      "He became a respected leader and played a major role in the Fourth Great Ninja War as commander of the Allied Shinobi Forces."
+    ]
+  },
+  "Minato Namikaze": {
+    "clan": "Namikaze",
+    "quote": "Believing in your child is a parent's duty.",
+    "features": ["Flying Thunder God Technique", "Rasengan"],
+    "lore": [
+      "He was known throughout the ninja world as the Yellow Flash of the Leaf.",
+      "He was the student of Jiraiya, one of the Legendary Sannin.",
+      "He created the Rasengan, a powerful chakra-based technique.",
+      "He married Kushina Uzumaki and became the father of Naruto Uzumaki.",
+      "He was chosen as the Fourth Hokage due to his exceptional skill and leadership.",
+      "During the Nine-Tails attack on the Hidden Leaf Village, he fought Obito Uchiha.",
+      "He sealed half of Kurama, the Nine-Tailed Fox, inside Naruto to protect the village.",
+      "He sacrificed his life alongside Kushina during the Nine-Tails attack.",
+      "He was later reincarnated through the Edo Tensei technique during the Fourth Great Ninja War.",
+      "He fought alongside Naruto and the Allied Shinobi Forces before finally being laid to rest."
+    ]
+  },
+  "Jiraiya": {
+    "clan": "Unknown",
+    "quote": "A person grows up when he's able to overcome hardships. Protection is important, but there are some things a person must learn on their own.",
+    "features": ["Sage Mode", "Toad Summoning"],
+    "lore": [
+      "He was one of the Legendary Sannin of the Hidden Leaf Village.",
+      "He trained under the Third Hokage, Hiruzen Sarutobi.",
+      "He was the teacher of Minato Namikaze, the Fourth Hokage.",
+      "He later became the mentor of Naruto Uzumaki.",
+      "He traveled the world gathering information as a highly skilled spy.",
+      "He was known for his powerful Toad Summoning techniques and Sage Mode.",
+      "He wrote the popular 'Make-Out' novel series under a pen name.",
+      "He believed that Naruto was the Child of Prophecy who would change the world.",
+      "He infiltrated the Hidden Rain Village to investigate the leader of the Akatsuki.",
+      "He sacrificed his life fighting the Six Paths of Pain and left behind crucial information that helped Naruto defeat them."
+    ]
+  },
+  "Tsunade Senju": {
+    "clan": "Senju",
+    "quote": "People become stronger because they have things they cannot forget.",
+    "features": ["Strength of a Hundred Seal", "Medical Ninjutsu"],
+    "lore": [
+      "She is the granddaughter of Hashirama Senju, the First Hokage.",
+      "She is one of the Legendary Sannin alongside Jiraiya and Orochimaru.",
+      "She was trained by the Third Hokage, Hiruzen Sarutobi.",
+      "She became the greatest medical ninja of her generation.",
+      "She introduced the rule that every ninja squad should include a medical ninja.",
+      "She developed immense chakra-enhanced strength capable of shattering buildings with a single punch.",
+      "She suffered great personal losses, including her brother Nawaki and her lover Dan.",
+      "She overcame her fear of blood and returned to serve the Hidden Leaf Village.",
+      "She became the Fifth Hokage and helped rebuild the village after major attacks.",
+      "She played a crucial role in the Fourth Great Ninja War by healing and supporting the Allied Shinobi Forces."
+    ]
+  },
+  "Orochimaru": {
+    "clan": "Unknown",
+    "quote": "Perhaps the meaning of life is found in the countless possibilities of growth.",
+    "features": ["Snake Techniques", "Immortality Experiments"],
+    "lore": [
+      "He was one of the Legendary Sannin of the Hidden Leaf Village.",
+      "He trained under the Third Hokage, Hiruzen Sarutobi.",
+      "He was once considered a candidate to become the Fourth Hokage.",
+      "He became obsessed with learning every jutsu in existence.",
+      "He conducted forbidden experiments in pursuit of immortality.",
+      "His actions led him to abandon the Hidden Leaf Village and become a rogue ninja.",
+      "He founded the Hidden Sound Village and gathered many followers.",
+      "He took Sasuke Uchiha as his student in an attempt to obtain the Sharingan.",
+      "He played a major role in the Fourth Great Ninja War after being revived.",
+      "After the war, he remained under surveillance while continuing his research and assisting the village when needed."
+    ]
+  },
+  "Hinata Hyuga": {
+    "clan": "Hyuga",
+    "quote": "I never go back on my word, because that's my ninja way too.",
+    "features": ["Byakugan", "Gentle Fist"],
+    "lore": [
+      "She is the eldest daughter of Hiashi Hyuga, the head of the Hyuga clan.",
+      "She inherited the Byakugan, one of the most powerful dojutsu in the ninja world.",
+      "She was a member of Team 8 alongside Kiba Inuzuka and Shino Aburame.",
+      "She trained extensively in the Gentle Fist fighting style of the Hyuga clan.",
+      "She admired Naruto Uzumaki from childhood because of his determination and kindness.",
+      "She fought courageously against Neji Hyuga during the Chunin Exams.",
+      "She risked her life to protect Naruto during Pain's attack on the Hidden Leaf Village.",
+      "She played an important role in supporting Naruto during the Fourth Great Ninja War.",
+      "She eventually married Naruto Uzumaki.",
+      "She became the mother of Boruto Uzumaki and Himawari Uzumaki."
+    ]
+  },
+  "Shikamaru Nara": {
+    "clan": "Nara",
+    "quote": "What a drag...",
+    "features": ["Shadow Possession Jutsu", "Genius Intellect"],
+    "lore": [
+      "He is the son of Shikaku Nara, the leader of the Nara clan.",
+      "He was a member of Team 10 alongside Choji Akimichi and Ino Yamanaka.",
+      "He is known for his exceptionally high intelligence and strategic thinking.",
+      "He was the only Konoha ninja promoted to Chunin during the Chunin Exams.",
+      "He inherited and mastered the Nara clan's Shadow Possession techniques.",
+      "He led the mission to retrieve Sasuke Uchiha after Sasuke left the village.",
+      "He avenged his mentor Asuma Sarutobi by helping defeat Hidan of the Akatsuki.",
+      "He served as a key strategist during the Fourth Great Ninja War.",
+      "He married Temari of the Hidden Sand Village and became the father of Shikadai Nara.",
+      "He became Naruto Uzumaki's trusted advisor and later the Eighth Hokage of the Hidden Leaf Village."
+    ]
+  },
+  "Madara Uchiha": {
+    "clan": "Uchiha",
+    "quote": "Wake up to reality! Nothing ever goes as planned in this accursed world.",
+    "features": ["Eternal Mangekyo Sharingan", "Rinnegan"],
+    "lore": [
+      "He was one of the founders of the Hidden Leaf Village alongside Hashirama Senju.",
+      "He was the leader of the Uchiha clan during the Warring States Period.",
+      "He possessed the Eternal Mangekyo Sharingan, granting him immense power.",
+      "He fought Hashirama Senju in the legendary battle at the Valley of the End.",
+      "He survived his apparent death by using Izanagi and continued his plans in secret.",
+      "He awakened the Rinnegan late in his life by combining Uchiha and Senju chakra.",
+      "He manipulated Obito Uchiha into carrying out the Eye of the Moon Plan.",
+      "He was revived during the Fourth Great Ninja War and became one of its greatest threats.",
+      "He became the Ten-Tails Jinchuriki and achieved power rivaling the Sage of Six Paths.",
+      "His plans ultimately failed when Black Zetsu betrayed him, leading to Kaguya Otsutsuki's resurrection."
+    ]
+  },
+  "Obito Uchiha": {
+    "clan": "Uchiha",
+    "quote": "The moment people come to know love, they run the risk of carrying hate.",
+    "features": ["Mangekyo Sharingan", "Kamui"],
+    "lore": [
+      "He was a member of Team Minato alongside Kakashi Hatake and Rin Nohara.",
+      "He dreamed of becoming Hokage and helping others.",
+      "He gifted his left Sharingan to Kakashi after being crushed during a mission.",
+      "He was rescued by Madara Uchiha and nursed back to health.",
+      "The death of Rin Nohara deeply traumatized him and changed his worldview.",
+      "He adopted the identity of 'Madara Uchiha' and secretly manipulated events from the shadows.",
+      "He controlled the Nine-Tailed Fox and launched the attack on the Hidden Leaf Village.",
+      "He led the Akatsuki and initiated the Fourth Great Ninja War.",
+      "He became the Ten-Tails Jinchuriki and gained immense power.",
+      "He ultimately redeemed himself by helping Naruto and Kakashi defeat Kaguya, sacrificing his life to protect his friends."
+    ]
+  },
+  "Hashirama Senju": {
+    "clan": "Senju",
+    "quote": "The village is not something that belongs to one person. It belongs to everyone who lives in it.",
+    "features": ["Wood Release", "Sage Mode"],
+    "lore": [
+      "He was the leader of the Senju clan during the Warring States Period.",
+      "He co-founded the Hidden Leaf Village alongside Madara Uchiha.",
+      "He became the First Hokage of Konohagakure.",
+      "He was known as the 'God of Shinobi' due to his unparalleled strength.",
+      "He possessed the unique Wood Release kekkei genkai, allowing him to create and control wood.",
+      "He could suppress and control Tailed Beasts using his powerful chakra.",
+      "He fought Madara Uchiha multiple times, including their legendary battle at the Valley of the End.",
+      "He believed deeply in peace and cooperation between clans.",
+      "He was the grandfather of Tsunade, the Fifth Hokage.",
+      "His cells became highly sought after because of their extraordinary regenerative abilities and were used in many experiments long after his death."
+    ]
+  },
+  "Tobirama Senju": {
+    "clan": "Senju",
+    "quote": "It is not wise to judge others based on your own preconceptions and by their appearances.",
+    "features": ["Water Release", "Flying Thunder God Technique"],
+    "lore": [
+      "He was the younger brother of Hashirama Senju, the First Hokage.",
+      "He became the Second Hokage of the Hidden Leaf Village after Hashirama.",
+      "He was renowned for his intelligence, leadership, and mastery of Water Release techniques.",
+      "He created many powerful jutsu, including the Flying Thunder God Technique.",
+      "He also invented the Shadow Clone Jutsu and the Edo Tensei technique.",
+      "He established the Konoha Ninja Academy to train future generations of shinobi.",
+      "He founded the Chunin Exams to promote cooperation and competition among villages.",
+      "He created the Konoha Military Police Force and assigned its leadership to the Uchiha clan.",
+      "He served as the mentor of Hiruzen Sarutobi, who later became the Third Hokage.",
+      "He sacrificed his life during a mission to ensure the survival of his comrades and the future of the village."
+    ]
+  },
+  "Might Guy": {
+    "clan": "Unknown",
+    "quote": "The power of youth is boundless!",
+    "features": ["Eight Inner Gates", "Taijutsu Master"],
+    "lore": [
+      "He is the son of Might Duy, a shinobi famous for mastering the Eight Inner Gates.",
+      "He specialized in taijutsu because he could not effectively use ninjutsu or genjutsu.",
+      "He became one of Konoha's strongest shinobi through relentless training and determination.",
+      "He was Kakashi Hatake's lifelong rival and close friend.",
+      "He served as the leader of Team Guy, mentoring Neji Hyuga, Rock Lee, and Tenten.",
+      "He trained Rock Lee to become a powerful taijutsu specialist.",
+      "He mastered all Eight Inner Gates, a forbidden technique that greatly increases physical power.",
+      "During the Fourth Great Ninja War, he opened the Eighth Gate of Death to battle Madara Uchiha.",
+      "His attack, Night Guy, severely injured Ten-Tails Jinchuriki Madara, earning Madara's respect.",
+      "He survived the use of the Eighth Gate thanks to Naruto's intervention and continued to inspire future generations despite losing the use of his legs."
+    ]
+  }
+  
+}
