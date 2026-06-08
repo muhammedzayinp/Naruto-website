@@ -1335,8 +1335,114 @@
       "9. He was completely outsmarted during their duel when Sasuke used a subtle genjutsu to trick him into miscounting his active eyes.",
       "10. He died a gruesome death, activating a Reverse Four Symbols Sealing jutsu in a failed attempt to drag Sasuke and Tobi down with him."
     ]
+  },{
+  "Temari": {
+    "clan": "Kazekage",
+    "quote": "If you ever let your guard down for even a second, I'll blow you away before you can blink!",
+    "features": [
+      "Giant Folding Fan",
+      "Wind Release",
+      "Summoning: Kamatari"
+    ],
+    "lore": [
+      "1. She is the eldest child of the Fourth Kazekage and the sister of Gaara and Kankuro, hailing from Sunagakure.",
+      "2. She is a master of wind-style ninjutsu, utilizing her massive metal folding fan to generate gale-force winds and vacuum blades.",
+      "3. She can summon the sharp, sickle-wielding weasel Kamatari, who executes massive sweeping cuts across entire forests.",
+      "4. She fought a fierce tactical battle against Tayuya during the Sasuke Recovery Mission, using her wind to shred the forest canopy.",
+      "5. She served as the primary diplomatic envoy between Sunagakure and Konohagakure for years, eventually marrying Shikamaru Nara.",
+      "6. She managed the chaotic logistics during the Fourth Great Ninja War, ensuring all Allied divisions remained mobile and coordinated.",
+      "7. She is known for her fiery, intimidating personality, famously keeping Shikamaru in line whenever he tries to slack off.",
+      "8. She relocated permanently to Konoha after her marriage, raising her son Shikadai while serving as a high-level village advisor.",
+      "9. Despite her transition to village life, she remains a fierce combatant, quickly putting down any threat to her family.",
+      "10. She continues to mentor the next generation of kunoichi, teaching them how to balance tactical intellect with raw offensive power."
+    ]
+  },
+  "Konohamaru Sarutobi": {
+    "clan": "Sarutobi",
+    "quote": "I don't need shortcuts to become the Hokage! I'll earn the title with my own grit and determination!",
+    "features": [
+      "Rasengan",
+      "Fire Style: Burning Ash",
+      "Shadow Clone Jutsu"
+    ],
+    "lore": [
+      "1. He is the grandson of the Third Hokage and the devoted student of Naruto Uzumaki, sharing the same goal of becoming Hokage.",
+      "2. He grew up in the shadow of his famous grandfather, initially demanding to be addressed as 'Honorable Grandson'.",
+      "3. He learned the Rasengan directly from Naruto, famously using it to take down one of the Pain bodies during the Konoha invasion.",
+      "4. He was inspired to stop hiding behind his family name after Naruto taught him that true strength comes from self-belief.",
+      "5. He possesses the versatility of his Sarutobi clan, demonstrating mastery over multiple elemental releases and complex scroll seals.",
+      "6. He rose to the rank of Jonin by the Boruto era, becoming the leader of the new Team 7, which includes Boruto Uzumaki.",
+      "7. He struggles with the weight of leadership, often questioning if he is truly living up to the legacies of his grandfather and Naruto.",
+      "8. He frequently utilizes the Toad Summoning contract, a legacy passed down through the line of Naruto's students.",
+      "9. He is a fierce protector of Konoha's children, often sacrificing his own safety to shield his students from dangerous missions.",
+      "10. He continues to train daily, firmly believing that he will eventually be the one to carry the Hokage cloak for his generation."
+    ]
+  },
+  "Sai": {
+    "clan": "Unknown",
+    "quote": "I have learned that emotions aren't a hindrance to a mission... they are the very things that give life meaning.",
+    "features": [
+      "Super Beast Imitating Drawing",
+      "Ink Clone",
+      "Root Sealing Arts"
+    ],
+    "lore": [
+      "1. He was a nameless orphan recruited into Danzo's Root division, trained to suppress all human emotions and personal connections.",
+      "2. He was assigned to join Team 7 as a replacement for Sasuke Uchiha, initially acting as a cold, calculating observer.",
+      "3. He fights using his signature Super Beast Imitating Drawing, bringing his ink sketches to life to scout or attack enemies.",
+      "4. He eventually discovered the value of friendship through his bonds with Naruto and Sakura, leading him to betray Root's orders.",
+      "5. He is a surprisingly talented artist, creating murals and portraits that helped him gradually rediscover his own repressed feelings.",
+      "6. He married Ino Yamanaka after the war, having a son named Inojin and becoming a pillar of the new Konoha village.",
+      "7. He works as a high-ranking officer in the Konoha Intelligence Division, focusing on internal security and counter-espionage.",
+      "8. He possesses specialized sealing knowledge from his Root training, which he uses to contain dangerous threats and reanimated foes.",
+      "9. He serves as a mentor to the younger generation, teaching them how to integrate their unique artistic talents into combat.",
+      "10. He has fully transformed from a hollow weapon into a devoted husband, father, and loyal shinobi of the Leaf."
+    ]
+  },
+  "Yamato": {
+    "clan": "Unknown",
+    "quote": "Don't ever force yourself to bear the burden of the world alone. That's what your teammates are for.",
+    "features": [
+      "Wood Release",
+      "Tailed Beast Suppression",
+      "ANBU Tactics"
+    ],
+    "lore": [
+      "1. He was a subject of Orochimaru's cruel experiments, being the only child to survive the transplant of First Hokage cells.",
+      "2. He was formerly known as 'Tenzō' during his time as a member of the elite ANBU Black Ops division under Kakashi Hatake.",
+      "3. He possesses the unique, legendary Wood Release, which he uses to build protective housing, restrain enemies, or manipulate chakra.",
+      "4. He was assigned to lead Team 7 after Kakashi was hospitalized, acting as the team's 'mother hen' and stabilizer.",
+      "5. He can channel his chakra into specialized suppression seals to calm the Nine-Tails if Naruto loses control of his beast form.",
+      "6. He was captured by Kabuto during the Fourth Great Ninja War to fuel the army of White Zetsu clones, being held hostage for years.",
+      "7. He spent much of the post-war era secretly tailing Orochimaru, ensuring the snake sage remained in check within his lair.",
+      "8. He is known for his signature 'creepy eyes' stare, which he uses to intimidate students into behaving themselves.",
+      "9. He is a veteran strategist, often providing the analytical backbone during complex missions that require stealth and containment.",
+      "10. He continues to serve Konoha as an expert in hazardous research monitoring, ensuring the village's secrets remain protected."
+    ]
+  },
+  "Kurenai Yuhi": {
+    "clan": "Yuhi",
+    "quote": "A true ninja doesn't just strike at the body; they strike at the mind, leaving the target trapped in their own illusions.",
+    "features": [
+      "Demonic Illusion: Tree Bind Death",
+      "Genjutsu Mastery",
+      "Chakra Detection"
+    ],
+    "lore": [
+      "1. She was a Jonin of Konohagakure and the leader of Team 8, specializing in genjutsu and sensory perception.",
+      "2. She was one of the few ninjas in the village brave enough to challenge Itachi Uchiha to a direct genjutsu battle.",
+      "3. She utilized the Demonic Illusion: Tree Bind Death, trapping enemies in a nightmare where they are rooted by massive trees.",
+      "4. She shared a deep, romantic relationship with Asuma Sarutobi, the two keeping their bond private until his tragic death.",
+      "5. She retired from active combat duties after becoming pregnant with Asuma's daughter, Mirai Sarutobi.",
+      "6. She remained a dedicated teacher to Kiba, Shino, and Hinata, watching proudly as they grew into capable, independent shinobi.",
+      "7. She dealt with the immense grief of losing Asuma, ultimately finding the strength to raise Mirai to follow in her father's footsteps.",
+      "8. She occasionally assists with training sessions in the village, providing insight into genjutsu theory for the younger students.",
+      "9. She is a respected elder figure within the village, known for her sharp intuition and gentle, nurturing demeanor.",
+      "10. She continues to honor Asuma's memory by training Mirai to uphold the 'Will of Fire' that defines their clan's legacy."
+    ]
   }
 }
+
 
 
 
