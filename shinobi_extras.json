@@ -287,8 +287,7 @@
       "His attack, Night Guy, severely injured Ten-Tails Jinchuriki Madara, earning Madara's respect.",
       "He survived the use of the Eighth Gate thanks to Naruto's intervention and continued to inspire future generations despite losing the use of his legs."
     ]
-  }
-  [
+  },
   {
     "name": "Rock Lee",
     "clan": "Unknown",
@@ -442,6 +441,205 @@
     "quote": "Boruto... You are my sun. You illuminate my path and keep me whole.",
     "features": ["Sage Transformation", "Soft Physique Modification", "Snake Clone"],
     "lore": ["He is a synthetic human created by Orochimaru, engineered to be genetically perfect.", "He left Otogakure to seek out Boruto Uzumaki, whom he views as his 'sun'.", "He possesses an innate, highly advanced Sage Transformation that manifests as a green, serpentine chakra shroud.", "His Sage Mode is so powerful that its premature use severely damages his internal organs.", "He can extend and contort his limbs using Soft Physique Modification.", "He speaks to white snakes to gather information, communicate with Orochimaru, and track targets.", "He was deeply affected by Omnipotence, which led him to mistake Kawaki for his true sun.", "He hunted Boruto down during the timeskip, unleashing his full Sage Mode in a relentless assassination attempt.", "He realized Boruto's true identity after noticing the distinct, warm nature of his fighting style.", "He remains a core member of Team 7, resolving to find his own independent will."]
+  },
+[
+  {
+    "name": "Konohamaru Sarutobi",
+    "clan": "Sarutobi",
+    "quote": "There are no shortcuts to becoming Hokage! It's a long, hard road that you have to walk yourself!",
+    "features": ["Rasengan", "Monkey Summoning", "Fire Release"],
+    "lore": [
+      "He is the grandson of the Third Hokage and the nephew of Asuma, named after the village itself by his grandfather.",
+      "He spent his early childhood throwing tantrums and attacking his grandfather to gain recognition outside of his royal status.",
+      "He became Naruto's first disciple, learning the Rasengan and the infamous Sexy Jutsu from him at a remarkably young age.",
+      "He defeated the Naraka Path of Pain during the village assault, a legendary feat for a Genin-level shinobi.",
+      "He inherited the summoning contract with monkeys, regularly calling upon Enra to aid him in barrier and physical combat.",
+      "He rose to the rank of Jonin and took up the mantle of leading the new generation's Team 7 (Boruto, Sarada, and Mitsuki).",
+      "He highly values the traditional Will of Fire, constantly acting as a protective older brother figure to Naruto's children.",
+      "He mastered multiple nature transformations, specializing in expansive Fire Release techniques like the Burning Ash jutsu.",
+      "He struggled with his duties when his team was torn apart by the geopolitical shifts caused by Kara and Otsutsuki activity.",
+      "He serves as a close advisor and bodyguard to the Hokage's office, still firmly pursuing his ultimate dream of becoming Hokage."
+    ]
+  },
+  {
+    "name": "Iruka Umino",
+    "clan": "Umino",
+    "quote": "He's not the Nine-Tails Fox anymore. He is Naruto Uzumaki of Konohagakure... and he is my precious student.",
+    "features": ["Sealing Barriers", "Capture Restrictions", "Teaching Degree"],
+    "lore": [
+      "He lost both of his parents during the Nine-Tails' attack on Konoha, leading to a lonely, attention-seeking childhood.",
+      "He initially struggled to look at Naruto without seeing the beast that killed his parents, but chose empathy over hatred.",
+      "He was the very first person to acknowledge Naruto as a human being, saving him from Mizuki's manipulation and death.",
+      "He gave Naruto his first headband, officially graduating him into the ninja world and kickstarting his entire journey.",
+      "He served as the bedrock of the Ninja Academy, guiding multiple generations of genin with patience and strict love.",
+      "He was chosen by Naruto to stand in as his father during his wedding ceremony with Hinata Hyuga.",
+      "He used a powerful sealing barrier to temporarily restrain Naruto during the Fourth Great Ninja War to keep him safe.",
+      "He has a massive appetite for ramen, frequently treating Naruto to Ichiraku Ramen to celebrate his milestones or cheer him up.",
+      "He eventually rose to become the Headmaster of the Ninja Academy, modernizing the curriculum for a peaceful era.",
+      "He remains one of the most respected figures in Konoha, acting as a voice of wisdom whenever Naruto faces emotional burnout."
+    ]
+  },
+  {
+    "name": "Shisui Uchiha",
+    "clan": "Uchiha",
+    "quote": "Self-sacrifice... A nameless shinobi who protects peace from within its shadow. That is the true mark of a ninja.",
+    "features": ["Kotoamatsukami", "Body Flicker Jutsu", "Fire Release"],
+    "lore": [
+      "He was a legendary prodigy of the Uchiha clan, renowned across nations as 'Shisui of the Body Flicker' due to his unmatched speed.",
+      "He was Itachi Uchiha's best friend and older mentor, heavily influencing Itachi's philosophies regarding peace and sacrifice.",
+      "He possessed the ultimate genjutsu, Kotoamatsukami, which could subtly control a target's mind without them realizing it.",
+      "He planned to use his Mangekyo Sharingan on Fugaku Uchiha to stop the clan's planned coup d'état against Konoha.",
+      "He was ambushed by Danzo Shimura, who poisoned him and stole his right eye to hoard the power of Kotoamatsukami.",
+      "He escaped the ambush and met with Itachi, entrusting his remaining left eye to his friend to keep it safe from Danzo.",
+      "He committed suicide by throwing himself off a cliff into the Naka River, orchestrating his death to awaken Itachi's Mangekyo Sharingan.",
+      "He wiped out his own physical existence so thoroughly that Kabuto Yakushi could never find a DNA sample to reanimate him.",
+      "His stolen right eye was used by Danzo during the Five Kage Summit to manipulate the leader of the Land of Iron.",
+      "His left eye, hidden inside Naruto's crow, eventually freed Itachi from Kabuto's absolute reanimation control during the war."
+    ]
+  },
+  {
+    "name": "Kushina Uzumaki",
+    "clan": "Uzumaki",
+    "quote": "Thank you for letting me be your mother... and for letting Minato be your father... Thank you for being born to us!",
+    "features": ["Adamantine Sealing Chains", "Kyuubi Jinchuriki", "Habanero Temper"],
+    "lore": [
+      "She was born in Uzushio and brought to Konoha as a child specifically because her special chakra could suppress the Nine-Tails.",
+      "She was bullied in school for her vibrant red hair and round face, earning the nickname 'Tomato' before beating up her bullies.",
+      "She fell in love with Minato Namikaze after he traced her red hair to rescue her from Cloud Village kidnappers.",
+      "She earned the terrifying moniker 'The Red Hot-Blooded Habanero' due to her short temper and aggressive fighting style.",
+      "She possessed the Uzumaki clan's signature Adamantine Sealing Chains, which were strong enough to restrain a full Tailed Beast.",
+      "Her seal weakened during childbirth, allowing masked Tobi to extract the Nine-Tails and unleash it upon Konoha.",
+      "She survived the extraction momentarily due to her immense Uzumaki vitality, using her remaining strength to chain the fox down.",
+      "She sacrificed her life alongside Minato, taking a massive claw through the chest to shield their newborn son, Naruto.",
+      "She sealed a portion of her conscious chakra inside Naruto, appearing years later to help him tame the Nine-Tailed Fox's power.",
+      "She passed on her unique verbal tic, 'Dattebane' (Believe it/Ya know), which Naruto inherited as his signature 'Dattebayo'."
+    ]
+  },
+  {
+    "name": "Suigetsu Hozuki",
+    "clan": "Hozuki",
+    "quote": "The younger brother beats the older brother... That's how things work in the sword world.",
+    "features": ["Hydrification Technique", "Executioner's Blade", "Water Release"],
+    "lore": [
+      "He was a prodigy from Kirigakure who was captured by Orochimaru and kept in a fluid tube for extensive genetic experiments.",
+      "He was recruited by Sasuke Uchiha as the first member of the team Hebi (later Taka) due to his incredible combat skills.",
+      "He belongs to the Hozuki clan, allowing him to instantly liquefy his entire body using the Hydrification Technique.",
+      "He must constantly consume water to stay hydrated, otherwise his liquid form becomes sluggish and easily dried out.",
+      "He is highly vulnerable to Lightning Release, which paralyzes his fluid body and prevents him from liquefying.",
+      "He tracked down Zabuza's grave to claim the Kubikiribocho (Executioner's Blade), beginning his quest to collect all seven swords of the Mist.",
+      "He can bulk up his muscle mass by directing fluid into his limbs, allowing him to swing massive weapons with ease.",
+      "He fought Killer Bee alongside Taka, taking a direct Tailed Beast Bomb to save his comrades from total annihilation.",
+      "He discovered a hidden scroll in Orochimaru's hideout that held secrets to changing the tide of the Fourth Great Ninja War.",
+      "In the post-war era, he returned to working as a lab assistant for Orochimaru, occasionally running errands for Otogakure."
+    ]
+  },
+  {
+    "name": "Karin",
+    "clan": "Uzumaki",
+    "quote": "If you're going to use me, use me until the very end... Sasuke.",
+    "features": ["Mind's Eye of the Kagura", "Heal Bite", "Adamantine Attacking Chains"],
+    "lore": [
+      "She lived as a refugee in Kusagakure, where her mother died from over-exploitation due to her unique healing abilities.",
+      "She was saved by Sasuke Uchiha during the Chunin Exams in the Forest of Death, sparking a lifelong obsession with him.",
+      "She was recruited by Sasuke to lead Team Hebi's sensory tracking due to her elite ability to read and evaluate chakra signatures.",
+      "Her signature technique, Mind's Eye of the Kagura, allows her to track targets across miles and sense changes in emotion.",
+      "She heals others by letting them bite into her skin and suck her chakra, leaving her body covered in bite marks.",
+      "She was used as a human shield by Sasuke during his fight with Danzo, being pierced through the chest just to kill the target.",
+      "She forgave Sasuke almost immediately after he apologized, showcasing her intense, bordering on toxic, devotion to him.",
+      "During the war, she manifested the Uzumaki clan's Adamantine Attacking Chains out of rage to smash Tobi's wooden statue.",
+      "She personally delivered Sakura's baby, Sarada Uchiha, in one of Orochimaru's hideouts, acting as a trusted family friend.",
+      "She currently manages Orochimaru's Southern Hideout, keeping Sasuke's old glasses as a keepsake while fully supporting his marriage."
+    ]
+  },
+  {
+    "name": "Jugo",
+    "clan": "Unknown",
+    "quote": "I don't want to kill anyone anymore... but the impulse keeps tearing me apart from the inside.",
+    "features": ["Sage Transformation", "Animal Telepathy", "Chakra Absorption"],
+    "lore": [
+      "He belongs to an unnamed clan that naturally absorbs natural energy, causing uncontrollable fits of homicidal madness.",
+      "He voluntarily sought out Orochimaru to find a cure for his rage, inadvertently providing the genetic source for the Curse Mark.",
+      "He formed a profound bond with Kimimaro Kaguya, who was the only person capable of subduing his rage without harming him.",
+      "He joined Sasuke's team Taka solely because he viewed Sasuke as Kimimaro's spiritual successor and genetic savior.",
+      "His Sage Transformation allows him to shapeshift his limbs into axes, shields, jet boosters, or cannons depending on the battle.",
+      "He possesses the unique ability to communicate fluently with birds and other woodland animals to scout out paths.",
+      "He can transfer his own flesh and chakra to heal compatible individuals like Sasuke, though doing so shrinks his physical age.",
+      "He spent major portions of his life locked in isolated prison cells to protect innocent people from his berserk states.",
+      "He fought alongside Sasuke during the Summit and War arcs, serving as armor or heavy artillery whenever Taka engaged enemies.",
+      "He returned to living in nature under Orochimaru's loose supervision, struggling daily to maintain his inner zen peace."
+    ]
+  },
+  {
+    "name": "Kimimaro",
+    "clan": "Kaguya",
+    "quote": "It doesn't matter if I die. I am not alone... I live on inside Lord Orochimaru's heart forever.",
+    "features": ["Shikotsumyaku", "Dance of the Seedling Fern", "Curse Mark of Earth"],
+    "lore": [
+      "He was the sole survivor of the bloodthirsty Kaguya clan, who locked him in a cage due to their fear of his extreme abilities.",
+      "He was found and adopted by Orochimaru, developing a fierce, religious devotion to the Sannin as his life's true purpose.",
+      "He possessed the rare Kekkei Genkai Shikotsumyaku, allowing him to manipulate his skeletal structure to use bones as weapons.",
+      "He was the original intended vessel for Orochimaru's soul before a rare, incurable lung disease ruined his health.",
+      "He led the Sound Four, easily beating them into submission to ensure their compliance in retrieving Sasuke Uchiha.",
+      "He forced his dying body to move through sheer willpower and Curse Mark chakra to fight Naruto, Lee, and Gaara.",
+      "His ultimate technique, Dance of the Seedling Fern, created a massive forest of jagged bone spikes rising out of the earth.",
+      "He died mid-strike from his illness just a millimeter away from piercing Gaara's eye, remaining undefeated in actual combat.",
+      "His death forced Orochimaru to wait years for another chance at the Sharingan, altering the trajectory of Sasuke's growth.",
+      "He was reanimated during the Fourth Great Ninja War, using his bone blades to cut through samurai divisions until the jutsu broke."
+    ]
+  },
+  {
+    "name": "Zabuza Momochi",
+    "clan": "Momochi",
+    "quote": "Your words cut deep... deeper than any blade. If possible... I want to go to the same place as you, Haku.",
+    "features": ["Executioner's Blade", "Silent Killing", "Hidden Mist Jutsu"],
+    "lore": [
+      "He was known as the 'Demon of the Hidden Mist' after slaughtering over a hundred Academy students as a child to graduate.",
+      "He was an elite member of Kirigakure's Seven Ninja Swordsmen, wielding the self-repairing Executioner's Blade.",
+      "He staged a failed coup d'état against the Fourth Mizukage, forcing him to flee the village and live as a mercenary.",
+      "He took in an orphaned boy named Haku, intending to use him purely as a weapon while hiding his growing affection for him.",
+      "He was hired by the corrupt tycoon Gato to assassinate the bridge builder Tazuna, bringing him into conflict with Team 7.",
+      "He specialized in Hidden Mist Jutsu combined with Silent Killing, tracking enemies purely through sound and wind shifts.",
+      "He was incapacitated by Kakashi Hatake, leading Haku to sacrifice his own life to take a lethal Lightning Blade intended for him.",
+      "He was moved to tears by Naruto's emotional speech, turning on Gato and slaughtering his men using only a kunai in his mouth.",
+      "He died next to Haku on the Great Naruto Bridge, wishing to join his young partner in whatever afterlife awaited them.",
+      "He was reanimated during the war, explicitly thanking Kakashi for stopping him before he could damage his legacy any further."
+    ]
+  },
+  {
+    "name": "Haku",
+    "clan": "Yuki",
+    "quote": "When a person has something precious they want to protect... that's when they can become truly strong.",
+    "features": ["Demonic Mirroring Ice Crystals", "Ice Release", "One-Handed Signs"],
+    "lore": [
+      "He belonged to the Yuki clan, inheriting the Ice Release Kekkei Genkai that combined Water and Wind natures.",
+      "He killed his own father in self-defense after his father murdered his mother upon discovering her secret bloodline.",
+      "He lived as a starving street orphan before Zabuza Momochi found him and gave him a purpose as his personal weapon.",
+      "He possessed a kind, deeply pacifistic nature, frequently holding back in battles to disable targets rather than kill them.",
+      "He utilized senbon needles with surgical precision, able to put targets into a temporary, death-like coma instantly.",
+      "He could weave jutsu signs using only a single hand, a rare feat that completely shocked Kakashi Hatake.",
+      "He trapped Naruto and Sasuke inside his Demonic Mirroring Ice Crystals, pushing Sasuke to awaken his Sharingan.",
+      "He threw himself in front of Kakashi's Chidori to shield Zabuza, dying with a smile knowing he was useful to his master.",
+      "His pure, unselfish loyalty heavily shaped Naruto's early outlook on what it truly means to be a dedicated shinobi.",
+      "He was reanimated alongside Zabuza, feeling immense grief that he had to fight again despite dying to protect his master."
+    ]
+  },
+  {
+    "name": "Hiruzen Sarutobi",
+    "clan": "Sarutobi",
+    "quote": "When the tree leaves dance, one shall find flames. The fire's shadow will illuminate the village... and once again, tree leaves shall bud anew.",
+    "features": ["Monkey King: Enma", "Five Elements Mastery", "Reaper Death Seal"],
+    "lore": [
+      "He was trained directly by the first two Hokage and was named the Third Hokage by Tobirama Senju during a war retreat.",
+      "He was hailed as 'The Professor' due to his encyclopedic mastery of every single non-Kekkei Genkai jutsu in Konoha.",
+      "He held the office of Hokage longer than anyone else, stepping back into power after Minato Namikaze's tragic death.",
+      "He presided over a golden age of peace but struggled heavily with administrative choices, including his handling of Danzo and the Uchiha.",
+      "He personally trained the Legendary Sannin: Jiraiya, Orochimaru, and Tsunade, favoring Orochimaru's genius above all.",
+      "He could summon the Monkey King: Enma, who transformed into an unbreakable Adamantine Staff for close-quarters fighting.",
+      "He defended the village during the Konoha Crush arc, engaging his rogue student Orochimaru in a historic barrier duel.",
+      "He used the forbidden Reaper Death Seal to sacrifice his life, sealing the souls of the reanimated first two Hokage.",
+      "He permanently crippled Orochimaru's arsenal by sealing the chakra within his student's arms before dying with a peaceful smile.",
+      "He was reanimated during the war by Orochimaru, using his all-element mastery to counter Tobi's massive elemental attacks."
+    ]
   }
 ]
-}
+
