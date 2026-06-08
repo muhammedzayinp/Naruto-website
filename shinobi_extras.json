@@ -288,5 +288,160 @@
       "He survived the use of the Eighth Gate thanks to Naruto's intervention and continued to inspire future generations despite losing the use of his legs."
     ]
   }
-  
+  [
+  {
+    "name": "Rock Lee",
+    "clan": "Unknown",
+    "quote": "A dropout will beat a genius through hard work.",
+    "features": ["Taijutsu Master", "Eight Inner Gates"],
+    "lore": ["He was a member of Team Guy alongside Neji Hyuga and Tenten.", "He was unable to use ninjutsu or genjutsu, making him different from most shinobi.", "He trained under Might Guy, who became his mentor and role model.", "He dedicated himself entirely to taijutsu and intense physical training.", "He became famous for his incredible speed and hand-to-hand combat skills.", "During the Chunin Exams, he impressed many by fighting Gaara and opening several of the Inner Gates.", "He suffered severe injuries from his battle with Gaara and was told he might never fight again.", "He underwent a risky operation performed by Tsunade and returned to active duty.", "He fought bravely in the Fourth Great Ninja War alongside the Allied Shinobi Forces.", "Through perseverance and determination, he proved that hard work can rival natural talent."]
+  },
+  {
+    "name": "Neji Hyuga",
+    "clan": "Hyuga",
+    "quote": "Fear. That is what we live with. And we live it every day.",
+    "features": ["Byakugan", "Gentle Fist"],
+    "lore": ["He was a member of Team Guy alongside Rock Lee and Tenten.", "He belonged to the branch family of the Hyuga clan.", "He was considered a prodigy and one of the most talented shinobi of his generation.", "He mastered the Gentle Fist fighting style and the Byakugan.", "He initially believed that a person's destiny could not be changed.", "He fought Hinata Hyuga during the Chunin Exams and defeated her.", "He later battled Naruto Uzumaki, who challenged his beliefs about fate.", "Naruto's determination inspired Neji to change his outlook on life.", "He became a Jonin and served with distinction in the Hidden Leaf Village.", "During the Fourth Great Ninja War, he sacrificed his life to protect Naruto Uzumaki and Hinata Hyuga, fulfilling his own chosen destiny."]
+  },
+  {
+    "name": "Ino Yamanaka",
+    "clan": "Yamanaka",
+    "quote": "Even a flower can bloom again if given a chance.",
+    "features": ["Mind Transfer Jutsu", "Sensory Ninjutsu"],
+    "lore": ["She is the daughter of Inoichi Yamanaka, the leader of the Yamanaka clan.", "She was a member of Team 10 alongside Shikamaru Nara and Choji Akimichi.", "She was once Sakura Haruno's closest friend before becoming her rival.", "She inherited the Yamanaka clan's secret Mind Transfer techniques.", "She participated in the Chunin Exams and demonstrated her clan's unique abilities.", "She trained to become a skilled medical ninja in addition to her clan techniques.", "She played an important role in communication and intelligence gathering during the Fourth Great Ninja War.", "She succeeded her father as the leader of the Yamanaka clan.", "She married Sai and became the mother of Inojin Yamanaka.", "She continues to serve the Hidden Leaf Village through its sensory and intelligence divisions."]
+  },
+  {
+    "name": "Choji Akimichi",
+    "clan": "Akimichi",
+    "quote": "You can say whatever you want about me, but don't insult my friends.",
+    "features": ["Expansion Jutsu", "Human Boulder"],
+    "lore": ["He is the son of Choza Akimichi, the leader of the Akimichi clan.", "He was a member of Team 10 alongside Shikamaru Nara and Ino Yamanaka.", "He is known for his kind heart and strong loyalty to his friends.", "He inherited the Akimichi clan's secret Expansion Jutsu techniques.", "He can convert calories into chakra to dramatically increase his size and strength.", "He developed powerful techniques such as the Human Boulder and Butterfly Mode.", "He participated in the Sasuke Retrieval Mission and risked his life for his teammates.", "He played a significant role in the Fourth Great Ninja War as part of the Allied Shinobi Forces.", "He overcame his insecurities and grew into a confident and capable shinobi.", "He later married Karui of the Hidden Cloud Village and became the father of Chocho Akimichi."]
+  },
+  {
+    "name": "Kiba Inuzuka",
+    "clan": "Inuzuka",
+    "quote": "I'm going to become Hokage someday too!",
+    "features": ["Beast Mimicry", "Enhanced Senses"],
+    "lore": ["He is a member of the Inuzuka clan, known for fighting alongside ninja dogs.", "He was a member of Team 8 alongside Hinata Hyuga and Shino Aburame.", "His loyal canine partner is Akamaru, who has been with him since childhood.", "He possesses an exceptional sense of smell and heightened physical abilities.", "He uses the Inuzuka clan's Beast Mimicry techniques to fight in coordination with Akamaru.", "He participated in the Chunin Exams and faced Naruto Uzumaki in the preliminary rounds.", "He joined the Sasuke Retrieval Mission and fought Sakon and Ukon of the Sound Four.", "He continued to develop powerful combination techniques with Akamaru as he matured.", "He fought alongside the Allied Shinobi Forces during the Fourth Great Ninja War.", "He remains a dedicated shinobi of the Hidden Leaf Village and often dreams of becoming Hokage."]
+  },
+  {
+    "name": "Shino Aburame",
+    "clan": "Aburame",
+    "quote": "A true victory is achieved when one remains calm and analyzes the situation.",
+    "features": ["Parasitic Insects", "Tracking Abilities"],
+    "lore": ["He is a member of the Aburame clan, a family that forms a symbiotic bond with chakra-eating insects.", "He was a member of Team 8 alongside Hinata Hyuga and Kiba Inuzuka.", "His body houses kikaichu insects, which he uses for combat, tracking, and reconnaissance.", "He is known for his calm personality, intelligence, and analytical thinking.", "He participated in the Chunin Exams and defeated Zaku Abumi in the preliminary rounds.", "He was unable to join the Sasuke Retrieval Mission and was disappointed to be left behind.", "His insects allow him to gather information and locate targets over long distances.", "He fought as part of the Allied Shinobi Forces during the Fourth Great Ninja War.", "After the war, he became an instructor at the Hidden Leaf Village's Ninja Academy.", "Despite often being overlooked by others, he remains one of Konoha's most reliable and skilled shinobi."]
+  },
+  {
+    "name": "Temari",
+    "clan": "Kazekage Clan",
+    "quote": "Being a woman doesn't make me weak.",
+    "features": ["Wind Release", "Giant Iron Fan"],
+    "lore": ["She is the eldest child of the Fourth Kazekage of the Hidden Sand Village.", "She is the older sister of Gaara and Kankuro.", "She was one of the strongest participants in the Chunin Exams.", "She specializes in Wind Release techniques and fights using a giant iron fan.", "She easily defeated Tenten during the Chunin Exams preliminary matches.", "She assisted Shikamaru Nara during the Sasuke Retrieval Mission.", "She became a respected diplomat between the Hidden Sand and Hidden Leaf Villages.", "She fought alongside the Allied Shinobi Forces during the Fourth Great Ninja War.", "She developed a close relationship with Shikamaru Nara and later married him.", "She became the mother of Shikadai Nara and continued serving as one of the Hidden Sand Village's most powerful kunoichi."]
+  },
+  {
+    "name": "Killer Bee",
+    "clan": "Unknown",
+    "quote": "Yo, fool! Ya fool!",
+    "features": ["Eight-Tails Jinchuriki", "Kenjutsu"],
+    "lore": ["He is the adopted brother of the Fourth Raikage of the Hidden Cloud Village.", "He became the jinchuriki of Gyuki, the Eight-Tailed Beast.", "Unlike many jinchuriki, he formed a friendship and partnership with his Tailed Beast.", "He is famous for speaking and fighting with an unusual rap style.", "He is a master swordsman capable of wielding multiple swords simultaneously.", "He trained Naruto Uzumaki to control the power of Kurama, the Nine-Tailed Fox.", "He successfully resisted several attempts by the Akatsuki to capture him.", "He fought alongside the Allied Shinobi Forces during the Fourth Great Ninja War.", "He played a crucial role in battles against Obito Uchiha and Madara Uchiha.", "He remains one of the strongest shinobi in the Hidden Cloud Village and a symbol of harmony between humans and Tailed Beasts."]
+  },
+  {
+    "name": "Pain (Nagato)",
+    "clan": "Uzumaki",
+    "quote": "Sometimes you must hurt in order to know, fall in order to grow, lose in order to gain.",
+    "features": ["Rinnegan", "Six Paths of Pain"],
+    "lore": ["He was born as Nagato, a member of the Uzumaki clan.", "He awakened the Rinnegan, one of the most powerful dojutsu in the ninja world.", "He was trained by Jiraiya alongside Yahiko and Konan.", "He and his friends founded the Akatsuki with the goal of bringing peace to the world.", "After Yahiko's death, Nagato adopted the identity of 'Pain' and pursued peace through fear and suffering.", "He controlled six different bodies known as the Six Paths of Pain.", "He led the Akatsuki and orchestrated the capture of multiple Tailed Beasts.", "He destroyed much of the Hidden Leaf Village using the devastating Shinra Tensei technique.", "After speaking with Naruto Uzumaki, he regained faith in Jiraiya's vision of peace.", "He sacrificed his life to revive the villagers and shinobi who had died during the attack on Konoha."]
+  },
+  {
+    "name": "Konan",
+    "clan": "Unknown",
+    "quote": "The feelings that have grown from love become a flower of hope that never dies.",
+    "features": ["Paper Ninjutsu", "Flight"],
+    "lore": ["She was one of the founding members of the original Akatsuki.", "She grew up as an orphan in the Hidden Rain Village alongside Yahiko and Nagato.", "She was trained by Jiraiya, who taught her the basics of ninjutsu.", "She developed a unique Paper Ninjutsu that allowed her to transform her body into sheets of paper.", "She served as Nagato's closest ally and supporter throughout his life.", "After Yahiko's death, she remained loyal to Nagato and helped lead the Akatsuki.", "She could create wings, weapons, and massive structures from paper.", "After Nagato's death, she left the Akatsuki and sought to honor his and Yahiko's dream of peace.", "She prepared an enormous paper bomb trap in an attempt to stop Obito Uchiha.", "She sacrificed her life protecting Nagato's Rinnegan and remained faithful to her friends' ideals until the end."]
+  },
+  {
+    "name": "Deidara",
+    "clan": "Unknown",
+    "quote": "Art is an explosion!",
+    "features": ["Explosion Release", "Explosive Clay"],
+    "lore": ["He was originally a shinobi from the Hidden Stone Village.", "He possessed mouths in the palms of his hands that could knead chakra into explosive clay.", "He believed that true art was found in a single, magnificent moment of destruction.", "He was recruited into the Akatsuki after being defeated by Itachi Uchiha.", "He was partnered with Sasori and later with Tobi in the Akatsuki.", "He specialized in creating explosive clay creatures such as birds, spiders, and dragons.", "He successfully captured Gaara, the One-Tail Jinchuriki, for the Akatsuki.", "He developed a deep rivalry with the Sharingan and particularly hated Itachi.", "He fought Sasuke Uchiha in a fierce battle and pushed himself to his limits.", "He ultimately sacrificed himself using his ultimate technique, C0, in an attempt to defeat Sasuke."]
+  },
+  {
+    "name": "Sasori",
+    "clan": "Unknown",
+    "quote": "True beauty lies in things that last forever.",
+    "features": ["Puppet Mastery", "Human Puppets"],
+    "lore": ["He was a shinobi from the Hidden Sand Village and a member of the Akatsuki.", "He was the grandson of Chiyo, one of the most respected puppet masters in Sunagakure.", "He became famous for creating highly advanced puppets and deadly poisons.", "He crafted the puppet versions of his parents after they died, seeking to ease his loneliness.", "He transformed his own body into a puppet to achieve a form of immortality.", "He created the Third Kazekage puppet, one of his most powerful human puppets.", "He partnered with Deidara in the Akatsuki organization.", "He used the Red Secret Technique: Performance of a Hundred Puppets to overwhelm enemies.", "He fought Sakura Haruno and Chiyo in a legendary battle.", "He ultimately allowed himself to be defeated, finding peace through the memories of his parents."]
+  },
+  {
+    "name": "Kisame Hoshigaki",
+    "clan": "Hoshigaki",
+    "quote": "Truth is only revealed when one reaches the brink of death.",
+    "features": ["Samehada", "Water Release"],
+    "lore": ["He was a shinobi from the Hidden Mist Village and a member of the Akatsuki.", "He was known as the 'Monster of the Hidden Mist' because of his immense chakra reserves and brutal fighting style.", "He wielded Samehada, a living sword that absorbs chakra from opponents.", "He was partnered with Itachi Uchiha in the Akatsuki.", "He specialized in powerful Water Release techniques capable of creating vast bodies of water.", "He could fuse with Samehada, greatly enhancing his strength and chakra absorption abilities.", "He played a major role in capturing Tailed Beasts for the Akatsuki.", "He infiltrated the Hidden Leaf Village alongside Itachi to pursue Naruto Uzumaki.", "He battled Killer Bee and the Allied Shinobi Forces during the Fourth Great Ninja War.", "To protect the Akatsuki's secrets, he chose death over capture and remained loyal to his ideals until the end."]
+  },
+  {
+    "name": "Hidan",
+    "clan": "Unknown",
+    "quote": "Now! Let's savor the utmost of suffering together!",
+    "features": ["Triple-Bladed Scythe", "Jashin Ritual", "Immortality"],
+    "lore": ["He was a rogue ninja from Yugakure and one of the latest members to join the Akatsuki.", "He was a devout follower of the Lord Jashin religion, which demands absolute destruction and slaughter.", "He possessed a unique form of absolute immortality, allowing him to survive fatal wounds, including decapitation.", "He was partnered with Kakuzu, forming an Akatsuki duo mockingly dubbed the 'Zombie Combo'.", "He utilized a massive Triple-Bladed Scythe designed not to kill, but to draw the opponent's blood for his rituals.", "By ingesting a victim's blood and drawing a Jashin symbol on the ground, he could link his body to theirs like a voodoo doll.", "Once the ritual link was active, any damage inflicted on Hidan's body was mirrored directly onto his victim.", "He was responsible for the death of Asuma Sarutobi, killing him during a confrontation with Konoha's Twenty Squads.", "He was outsmarted by Shikamaru Nara, who lured him into the Nara Clan Forest and blew him to pieces with explosive tags.", "He was buried alive deep underground in a pit, where he was left to slowly die of starvation."]
+  },
+  {
+    "name": "Kakuzu",
+    "clan": "Unknown",
+    "quote": "Even Hell runs on money. I'd be just fine.",
+    "features": ["Earth Grudge Fear", "Five Hearts", "Thread Manipulation"],
+    "lore": ["He was a rogue ninja from Takigakure and one of the oldest living shinobi.", "He fled his village after being imprisoned for failing a mission to assassinate the First Hokage.", "He utilized a forbidden jutsu called Earth Grudge Fear, transforming his body into a mass of black threads.", "He was practically immortal, maintaining up to five hearts taken from powerful shinobi, allowing him to use all five basic nature transformations.", "He was partnered with Hidan, forming the Akatsuki's 'Zombie Combo', and frequently collected bounties.", "He possessed a violent temper and had killed all of his previous Akatsuki partners before being paired with the immortal Hidan.", "He killed Asuma Sarutobi's teammate, Chiriku, and collected the massive bounty on his head.", "During his battle against Team 10 and Kakashi Hatake, he lost his hearts one by one to a variety of elemental counters.", "His remaining hearts were utterly destroyed when Naruto Uzumaki hit him with the newly perfected Wind Release: Rasenshuriken.", "He was later reincarnated by Kabuto Yakushi during the Fourth Great Ninja War, where he fought until his soul was sealed."]
+  },
+  {
+    "name": "Sai",
+    "clan": "Yamanaka",
+    "quote": "A smile is the best way to get oneself out of a tight spot, even if it is a fake one.",
+    "features": ["Super Beast Imitating Drawing", "Ink Jutsu", "Tanto"],
+    "lore": ["He was an orphan recruited into Root, a secret, ruthless sub-division of Konoha's ANBU.", "As part of his Root training, he was conditioned to strip away all personal emotions.", "He specialized in Super Beast Imitating Drawing, a unique jutsu that allows him to bring ink-painted animals to life.", "He was assigned to Team Kakashi as Sasuke Uchiha's replacement.", "He carried a blank picture book that he originally intended to fill with drawings of his adoptive brother, Shin.", "His initial bluntness caused severe friction with Naruto Uzumaki and Sakura Haruno.", "Through observing Naruto's bond with Sasuke, he rediscovered his own emotions and broke free from Danzo's emotional conditioning.", "During the Fourth Great Ninja War, he served in the Surprise Attack Division and used his emotional awakening to unleash powerful ink sealing jutsu.", "He fought alongside the Allied Shinobi Forces, using his ink-painted birds to provide crucial aerial reconnaissance.", "In the years following the war, he married Ino Yamanaka, took her clan name, and became the Director of the ANBU under the Seventh Hokage."]
+  },
+  {
+    "name": "Yamato",
+    "clan": "Unknown",
+    "quote": "I like to be a nice guy, but if push comes to shove... I'm a terror.",
+    "features": ["Wood Release", "Hashirama Cells", "Scary Face"],
+    "lore": ["He was an orphan kidnapped as a child by Orochimaru to serve as one of sixty test subjects injected with the First Hokage's DNA.", "He was the sole survivor of those experiments, granting him the rare ability to use the legendary Wood Release jutsu.", "He graduated from the Academy at age six, became a Chunin, and eventually joined the ANBU, serving under Kakashi Hatake.", "He was assigned to lead Team Kakashi as a temporary replacement under the codename 'Yamato'.", "His primary mission was to use his Wood Release to suppress the Nine-Tails' chakra whenever Naruto lost control.", "He relied on psychological tactics to keep Team Kakashi in line, famously using a terrifying glare to intimidate Naruto.", "He helped Naruto create his own ultimate jutsu, using Wood Release to construct training grounds.", "He was captured before the Fourth Great Ninja War by Kabuto Yakushi, who used Yamato's Hashirama cells to power up the White Zetsu Army.", "During the war, his body was used as a catalyst inside Tobi's giant Wood Release statue to fight against the Allied Shinobi Forces.", "After being freed from the Infinite Tsukuyomi, he was later tasked by Konoha with keeping a permanent, watchful eye on Orochimaru."]
+  },
+  {
+    "name": "Asuma Sarutobi",
+    "clan": "Sarutobi",
+    "quote": "The 'king' isn't the Hokage. It's the children who will lead the next generation... They are the ones we must protect.",
+    "features": ["Chakra Blades", "Flying Swallow", "Fire and Wind Release"],
+    "lore": ["He was a powerful Jonin of Konohagakure, the son of the Third Hokage Hiruzen Sarutobi, and the leader of Team 10.", "In his youth, he had a falling out with his father and briefly left the village to become one of the Twelve Guardian Shinobi.", "He possessed a massive bounty of 35 million Ryo on his head.", "He specialized in close-quarters combat using trench-knife style Chakra Blades infused with his highly refined Wind Release chakra.", "He shared a deep, unspoken romantic relationship with Kurenai Yuhi, which resulted in her becoming pregnant with his child.", "He acted as a vital mentor to Shikamaru Nara, helping him realize his true tactical brilliance.", "He led the Twenty Squads mission to hunt down Akatsuki members invading Fire Country.", "He was tragically killed in battle after falling victim to Hidan's lethal Jashin ritual curse.", "With his final breaths, he passed on his will of fire to Team 10, revealing to Shikamaru who the true 'king' of the village is.", "He was reincarnated during the Fourth Great Ninja War, forcing a heartbreaking emotional confrontation where his former students had to defeat and seal him."]
+  },
+  {
+    "name": "Kurenai Yuhi",
+    "clan": "Yuhi",
+    "quote": "You've grown so strong... But don't shoulder everything alone. Lean on those who care about you.",
+    "features": ["Demonic Illusion: Tree Bind Death", "Advanced Genjutsu", "Kunai"],
+    "lore": ["She was a highly skilled Kunoichi of Konohagakure who was promoted to Jonin status shortly before taking leadership of Team 8.", "She was widely recognized as Konoha's premier genjutsu prodigy.", "She served as a protective mentor and maternal figure to Hinata Hyuga.", "She specialized in illusions, most notably her signature Demonic Illusion: Tree Bind Death.", "She was among the first Konoha shinobi to confront Itachi Uchiha and Kisame Hoshigaki when they infiltrated the village.", "She shared a deeply devoted romantic relationship with Asuma Sarutobi.", "Following Asuma's tragic death at the hands of the Akatsuki, she retired from active ninja duty due to her pregnancy.", "She gave birth to a daughter named Mirai Sarutobi, raising her as a single mother while keeping Asuma's memory and ideals alive.", "During the pain invasion and subsequent crises, she was fiercely protected by Shikamaru Nara.", "In the peaceful years after the Fourth Great Ninja War, she lived quietly in Konoha, watching her daughter grow."]
+  },
+  {
+    "name": "Boruto Uzumaki",
+    "clan": "Uzumaki",
+    "quote": "I'm going to follow my own ninja path! I want to be a shinobi like Lord Sasuke!",
+    "features": ["Karma", "Jougan", "Vanishing Rasengan", "Uzuhiko"],
+    "lore": ["He is the firstborn child of Naruto Uzumaki and Hinata Hyuga.", "He initially resented his father's role as Hokage due to the neglect it caused his family.", "He cheated in the Chunin Exams using the scientific ninja tool Kote, leading to a public disqualification by his father.", "He was marked with a Karma seal by Momoshiki Otsutsuki, turning his body into a vessel for the alien entity's resurrection.", "He trained under Sasuke Uchiha, adopting his master's style and fighting philosophy.", "He developed the Vanishing Rasengan, adding a subconscious lightning-nature transformation.", "He became a target of the global community after Eida's Omnipotence swapped his life history with Kawaki's.", "He spent three years training in exile with Sasuke, perfecting his kenjutsu and mastering advanced Otsutsuki powers.", "He created the devastating Rasengan: Uzuhiko, utilizing the planet's rotation and centrifugal force.", "He returned to Konoha as a rogue savior, fighting to protect his homeland."]
+  },
+  {
+    "name": "Sarada Uchiha",
+    "clan": "Uchiha",
+    "quote": "My dream is to become the Hokage! A path where I can connect with everyone!",
+    "features": ["Sharingan", "Chidori", "Cherry Blossom Impact", "Mangekyo Sharingan"],
+    "lore": ["She is the daughter of Sasuke Uchiha and Sakura Haruno.", "She grew up with an absent father, leading her to briefly question her lineage.", "She awakened her basic Sharingan at a young age out of emotional excitement.", "She serves as the tactical anchor of Team 7, frequently strategizing during high-stakes battles.", "She mastered the Chidori under her father's guidance.", "She possesses monstrous physical strength, mimicking her mother's ability to focus chakra.", "She was one of the very few individuals unaffected by Eida's reality-altering Omnipotence jutsu.", "She awakened her Mangekyo Sharingan out of intense grief and a desperate plea to save Boruto.", "She spent the three-year timeskip lobbying the Eighth Hokage, Shikamaru Nara, to clear Boruto's name.", "She achieved the rank of Chunin and stepped into a leadership role among the village's youth."]
+  },
+  {
+    "name": "Mitsuki",
+    "clan": "Unknown",
+    "quote": "Boruto... You are my sun. You illuminate my path and keep me whole.",
+    "features": ["Sage Transformation", "Soft Physique Modification", "Snake Clone"],
+    "lore": ["He is a synthetic human created by Orochimaru, engineered to be genetically perfect.", "He left Otogakure to seek out Boruto Uzumaki, whom he views as his 'sun'.", "He possesses an innate, highly advanced Sage Transformation that manifests as a green, serpentine chakra shroud.", "His Sage Mode is so powerful that its premature use severely damages his internal organs.", "He can extend and contort his limbs using Soft Physique Modification.", "He speaks to white snakes to gather information, communicate with Orochimaru, and track targets.", "He was deeply affected by Omnipotence, which led him to mistake Kawaki for his true sun.", "He hunted Boruto down during the timeskip, unleashing his full Sage Mode in a relentless assassination attempt.", "He realized Boruto's true identity after noticing the distinct, warm nature of his fighting style.", "He remains a core member of Team 7, resolving to find his own independent will."]
+  }
+]
 }
