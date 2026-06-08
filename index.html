@@ -1631,98 +1631,7 @@
     resetAutoPlay();
 
     // ── SHINOBI DATA ──
-    const shinobiList = [
-        { name: "Naruto Uzumaki", village: "Hidden Leaf", chakra: "Wind", mom: "Kushina Uzumaki", dad: "Minato Namikaze", ultimate: "Six Paths: Ultra Rasenshuriken", used: "Rasengan / Shadow Clone" },
-        { name: "Sasuke Uchiha", village: "Hidden Leaf", chakra: "Lightning, Fire", mom: "Mikoto Uchiha", dad: "Fugaku Uchiha", ultimate: "Indra's Arrow", used: "Chidori / Sharingan" },
-        { name: "Sakura Haruno", village: "Hidden Leaf", chakra: "Earth, Water", mom: "Mebuki Haruno", dad: "Kizashi Haruno", ultimate: "100 Healings Jutsu", used: "Enhanced Strength" },
-        { name: "Kakashi Hatake", village: "Hidden Leaf", chakra: "Lightning (All 5)", mom: "Unknown", dad: "Sakumo Hatake", ultimate: "Kamui Lightning Blade", used: "Raikiri" },
-        { name: "Itachi Uchiha", village: "Hidden Leaf", chakra: "Fire, Water", mom: "Mikoto Uchiha", dad: "Fugaku Uchiha", ultimate: "Totsuka Blade", used: "Amaterasu" },
-        { name: "Gaara", village: "Hidden Sand", chakra: "Earth, Wind", mom: "Karura", dad: "Rasa", ultimate: "Imperial Desert Layered Quicksand", used: "Sand Coffin" },
-        { name: "Minato Namikaze", village: "Hidden Leaf", chakra: "Fire, Wind, Lightning", mom: "Unknown", dad: "Unknown", ultimate: "Flying Raijin: Level 2", used: "Flying Thunder God" },
-        { name: "Jiraiya", village: "Hidden Leaf", chakra: "Fire, Earth, Water, Wind", mom: "Unknown", dad: "Unknown", ultimate: "Sage Art: Goemon", used: "Rasengan" },
-        { name: "Tsunade Senju", village: "Hidden Leaf", chakra: "Earth, Fire, Water", mom: "Unknown", dad: "Unknown", ultimate: "Mitotic Regeneration", used: "Heavenly Spear Kick" },
-        { name: "Orochimaru", village: "Hidden Leaf (Rogue)", chakra: "All 5 Basic Natures", mom: "Unknown", dad: "Unknown", ultimate: "Eight Branches Jutsu", used: "Hidden Shadow Snake Hands" },
-        { name: "Hinata Hyuga", village: "Hidden Leaf", chakra: "Fire, Lightning", mom: "Unknown", dad: "Hiashi Hyuga", ultimate: "Twin Lion Fists", used: "Gentle Fist" },
-        { name: "Shikamaru Nara", village: "Hidden Leaf", chakra: "Earth, Fire", mom: "Yoshino Nara", dad: "Shikaku Nara", ultimate: "Shadow Strangle Jutsu", used: "Shadow Possession" },
-        { name: "Madara Uchiha", village: "Hidden Leaf (Rogue)", chakra: "All 5 + Yin/Yang", mom: "Unknown", dad: "Tajima Uchiha", ultimate: "Perfect Susanoo", used: "Majestic Destroyer Flame" },
-        { name: "Obito Uchiha", village: "Hidden Leaf (Rogue)", chakra: "Fire, Earth, Wood", mom: "Unknown", dad: "Unknown", ultimate: "Ten-Tails Coffin Seal", used: "Kamui" },
-        { name: "Hashirama Senju", village: "Hidden Leaf", chakra: "Water, Earth (Wood)", mom: "Unknown", dad: "Butsuma Senju", ultimate: "True Several Thousand Hands", used: "Wood Dragon" },
-        { name: "Tobirama Senju", village: "Hidden Leaf", chakra: "Water (All 5)", mom: "Unknown", dad: "Butsuma Senju", ultimate: "Tandem Paper Bombs", used: "Water Dragon Bullet" },
-        { name: "Might Guy", village: "Hidden Leaf", chakra: "Fire, Lightning", mom: "Unknown", dad: "Might Duy", ultimate: "Night Guy (8th Gate)", used: "Morning Peacock" },
-        { name: "Rock Lee", village: "Hidden Leaf", chakra: "None (Taijutsu)", mom: "Unknown", dad: "Unknown", ultimate: "Hidden Lotus", used: "Primary Lotus" },
-        { name: "Neji Hyuga", village: "Hidden Leaf", chakra: "Fire, Earth, Water", mom: "Unknown", dad: "Hizashi Hyuga", ultimate: "8 Trigrams 128 Palms", used: "Rotation" },
-        { name: "Ino Yamanaka", village: "Hidden Leaf", chakra: "Earth, Water", mom: "Unknown", dad: "Inoichi Yamanaka", ultimate: "Mind Clone Transfer", used: "Mind Transfer" },
-        { name: "Choji Akimichi", village: "Hidden Leaf", chakra: "Fire, Earth", mom: "Unknown", dad: "Choza Akimichi", ultimate: "Butterfly Bomb", used: "Human Bullet Tank" },
-        { name: "Kiba Inuzuka", village: "Hidden Leaf", chakra: "Earth, Yang", mom: "Tsume Inuzuka", dad: "Unknown", ultimate: "Three-Headed Wolf", used: "Fang Over Fang" },
-        { name: "Shino Aburame", village: "Hidden Leaf", chakra: "Earth, Fire", mom: "Unknown", dad: "Shibi Aburame", ultimate: "Insect Sphere", used: "Parasitic Insects" },
-        { name: "Temari", village: "Hidden Sand", chakra: "Wind", mom: "Karura", dad: "Rasa", ultimate: "Quick Beheading Dance", used: "Great Network" },
-        { name: "Killer Bee", village: "Hidden Cloud", chakra: "Lightning", mom: "Unknown", dad: "Unknown", ultimate: "Tailed Beast Bomb", used: "Lariat" },
-        { name: "Pain (Nagato)", village: "Hidden Rain", chakra: "All 5 Basic Natures", mom: "Fuso", dad: "Ise", ultimate: "Chibaku Tensei", used: "Shinra Tensei" },
-        { name: "Konan", village: "Hidden Rain", chakra: "Wind, Earth, Water", mom: "Unknown", dad: "Unknown", ultimate: "Paper Person of God Jutsu", used: "Shikigami Dance" },
-        { name: "Deidara", village: "Hidden Stone", chakra: "Earth, Lightning", mom: "Unknown", dad: "Unknown", ultimate: "C0 (Self-Destruction)", used: "Explosive Clay" },
-        { name: "Sasori", village: "Hidden Sand", chakra: "Unknown", mom: "Unknown", dad: "Unknown", ultimate: "Performance of 100 Puppets", used: "Iron Sand" },
-        { name: "Kisame Hoshigaki", village: "Hidden Mist", chakra: "Water, Earth", mom: "Unknown", dad: "Unknown", ultimate: "Water Prison Shark Dance", used: "Water Shark Bullet" },
-        { name: "Hidan", village: "Hidden Steam", chakra: "None", mom: "Unknown", dad: "Unknown", ultimate: "Death Controlling Blood", used: "Triple-Bladed Scythe" },
-        { name: "Kakuzu", village: "Hidden Waterfall", chakra: "All 5", mom: "Unknown", dad: "Unknown", ultimate: "Earth Grudge Fear", used: "Elemental Blasts" },
-        { name: "Sai", village: "Hidden Leaf", chakra: "Ink, Earth, Water", mom: "Unknown", dad: "Unknown", ultimate: "Armor-Clad Knights", used: "Super Beast Scroll" },
-        { name: "Yamato", village: "Hidden Leaf", chakra: "Earth, Water (Wood)", mom: "Unknown", dad: "Unknown", ultimate: "Birth of a Sea of Trees", used: "Wood Locking Wall" },
-        { name: "Asuma Sarutobi", village: "Hidden Leaf", chakra: "Wind, Fire", mom: "Biwako Sarutobi", dad: "Hiruzen Sarutobi", ultimate: "Thousand-Armed Murder", used: "Flying Swallow" },
-        { name: "Kurenai Yuhi", village: "Hidden Leaf", chakra: "Yin", mom: "Unknown", dad: "Shinkari Yuhi", ultimate: "Tree Bind Death", used: "Genjutsu" },
-        { name: "Boruto Uzumaki", village: "Hidden Leaf", chakra: "Wind, Lightning", mom: "Hinata Hyuga", dad: "Naruto Uzumaki", ultimate: "Vanishing Rasengan", used: "Rasengan" },
-        { name: "Sarada Uchiha", village: "Hidden Leaf", chakra: "Fire, Lightning", mom: "Sakura Haruno", dad: "Sasuke Uchiha", ultimate: "Chidori / Sharingan", used: "Fireball Jutsu" },
-        { name: "Mitsuki", village: "Hidden Sound", chakra: "Wind, Lightning", mom: "Orochimaru", dad: "Orochimaru", ultimate: "Sage Transformation", used: "Striking Shadow Snakes" },
-        { name: "Konohamaru", village: "Hidden Leaf", chakra: "Fire, Wind", mom: "Unknown", dad: "Unknown", ultimate: "Rasengan", used: "Burning Ash" },
-        { name: "Iruka Umino", village: "Hidden Leaf", chakra: "Fire, Water", mom: "Kohari", dad: "Ikkaku", ultimate: "Sealing Barrier", used: "Basic Ninjutsu" },
-        { name: "Shisui Uchiha", village: "Hidden Leaf", chakra: "Fire, Wind", mom: "Unknown", dad: "Unknown", ultimate: "Kotoamatsukami", used: "Body Flicker" },
-        { name: "Kushina Uzumaki", village: "Hidden Whirlpool", chakra: "Wind, Water", mom: "Unknown", dad: "Unknown", ultimate: "Adamantine Chains", used: "Sealing Jutsu" },
-        { name: "Suigetsu Hozuki", village: "Hidden Mist", chakra: "Water", mom: "Unknown", dad: "Unknown", ultimate: "Great Water Arm", used: "Hydrification" },
-        { name: "Karin Uzumaki", village: "Hidden Grass", chakra: "Earth, Water", mom: "Unknown", dad: "Unknown", ultimate: "Attacking Chains", used: "Mind's Eye" },
-        { name: "Jugo", village: "Unknown", chakra: "Sage Energy", mom: "Unknown", dad: "Unknown", ultimate: "Living Theory", used: "Piston Fist" },
-        { name: "Kimimaro", village: "Hidden Sound", chakra: "Earth, Water", mom: "Unknown", dad: "Unknown", ultimate: "Bracken Dance", used: "Bone Pulse" },
-        { name: "Zabuza Momochi", village: "Hidden Mist", chakra: "Water", mom: "Unknown", dad: "Unknown", ultimate: "Hidden Mist Jutsu", used: "Water Dragon" },
-        { name: "Haku", village: "Hidden Mist", chakra: "Ice", mom: "Unknown", dad: "Unknown", ultimate: "Crystal Ice Mirrors", used: "Water Needles" },
-        { name: "Hiruzen Sarutobi", village: "Hidden Leaf", chakra: "All 5", mom: "Unknown", dad: "Sasuke Sarutobi", ultimate: "Reaper Death Seal", used: "Shuriken Shadow Clone" },
-        { name: "Tenten", village: "Hidden Leaf", chakra: "Fire", mom: "Unknown", dad: "Unknown", ultimate: "Twin Rising Dragons", used: "Weapon Summoning" },
-        { name: "Hanabi Hyuga", village: "Hidden Leaf", chakra: "Fire, Lightning", mom: "Unknown", dad: "Hiashi Hyuga", ultimate: "Gentle Step Twin Lion Fists", used: "Gentle Fist" },
-        { name: "Mei Terumi", village: "Hidden Mist", chakra: "Water, Fire, Earth", mom: "Unknown", dad: "Unknown", ultimate: "Lava Release: Melting Apparition", used: "Boil Release" },
-        { name: "A (Fourth Raikage)", village: "Hidden Cloud", chakra: "Lightning", mom: "Unknown", dad: "Third Raikage", ultimate: "Liger Bomb", used: "Lightning Release Chakra Mode" },
-        { name: "Onoki", village: "Hidden Stone", chakra: "Earth, Wind, Fire", mom: "Unknown", dad: "Unknown", ultimate: "Particle Style: Atomic Dismantling", used: "Light-Weight Rock Technique" },
-        { name: "Muu", village: "Hidden Stone", chakra: "Earth, Wind, Fire", mom: "Unknown", dad: "Unknown", ultimate: "Particle Style: Atomic Dismantling", used: "Invisibility" },
-        { name: "Third Raikage", village: "Hidden Cloud", chakra: "Lightning, Earth, Fire", mom: "Unknown", dad: "Unknown", ultimate: "One-Finger Nukite", used: "Lightning Armor" },
-        { name: "Rin Nohara", village: "Hidden Leaf", chakra: "Fire, Water, Yang", mom: "Unknown", dad: "Unknown", ultimate: "Medical Ninjutsu", used: "Healing Technique" },
-        { name: "Tayuya", village: "Hidden Sound", chakra: "Yin", mom: "Unknown", dad: "Unknown", ultimate: "Demonic Flute: Phantom Sound Chains", used: "Genjutsu Flute" },
-        { name: "Jirobo", village: "Hidden Sound", chakra: "Earth", mom: "Unknown", dad: "Unknown", ultimate: "Earth Prison Dome", used: "Earth Release" },
-        { name: "Sakon and Ukon", village: "Hidden Sound", chakra: "Yang", mom: "Unknown", dad: "Unknown", ultimate: "Twin Demons Technique", used: "Body Parasite Jutsu" },
-        { name: "Kidomaru", village: "Hidden Sound", chakra: "Earth", mom: "Unknown", dad: "Unknown", ultimate: "Spider War Bow", used: "Spider Webs" },
-        { name: "Kaguya Otsutsuki", village: "Otsutsuki Dimension", chakra: "All Natures", mom: "Unknown", dad: "Unknown", ultimate: "Expansive Truth-Seeking Ball", used: "All-Killing Ash Bones" },
-        { name: "Hagoromo Otsutsuki", village: "Ninshu Era", chakra: "All Natures", mom: "Kaguya Otsutsuki", dad: "Tenji", ultimate: "Creation of All Things", used: "Six Paths Senjutsu" },
-        { name: "Hamura Otsutsuki", village: "Moon Clan", chakra: "All Natures", mom: "Kaguya Otsutsuki", dad: "Tenji", ultimate: "Tenseigan Chakra Mode", used: "Byakugan" },
-        { name: "Indra Otsutsuki", village: "Ninshu Era", chakra: "Lightning, Fire", mom: "Unknown", dad: "Hagoromo Otsutsuki", ultimate: "Susanoo", used: "Sharingan" },
-        { name: "Asura Otsutsuki", village: "Ninshu Era", chakra: "Wind, Yang", mom: "Unknown", dad: "Hagoromo Otsutsuki", ultimate: "Six Paths: Avatar", used: "Ninshu" },
-        { name: "Kawaki", village: "Hidden Leaf", chakra: "Fire", mom: "Unknown", dad: "Kokatsu", ultimate: "Karma Rift", used: "Karma" },
-        { name: "Code", village: "Kara", chakra: "Unknown", mom: "Unknown", dad: "Unknown", ultimate: "Claw Grime Assault", used: "Claw Marks" },
-        { name: "Eida", village: "Kara", chakra: "Unknown", mom: "Unknown", dad: "Unknown", ultimate: "Omnipotence", used: "Senrigan" },
-        { name: "Daemon", village: "Kara", chakra: "Unknown", mom: "Unknown", dad: "Unknown", ultimate: "Reflection", used: "Killing Intent Reflection" },
-        { name: "Danzo Shimura", village: "Hidden Leaf", chakra: "Wind, Wood", mom: "Unknown", dad: "Unknown", ultimate: "Izanagi", used: "Kotoamatsukami / Wind Style" },
-        { name: "Shizune", village: "Hidden Leaf", chakra: "Fire", mom: "Unknown", dad: "Unknown", ultimate: "Poison Mist", used: "Medical Ninjutsu" },
-        { name: "Anko Mitarashi", village: "Hidden Leaf", chakra: "Fire", mom: "Unknown", dad: "Unknown", ultimate: "Twin Snakes Mutual Death", used: "Snake Jutsu" },
-        { name: "Ibiki Morino", village: "Hidden Leaf", chakra: "Fire, Earth", mom: "Unknown", dad: "Unknown", ultimate: "Interrogation Genjutsu", used: "Torture and Interrogation" },
-        { name: "Yahiko", village: "Hidden Rain", chakra: "Water", mom: "Unknown", dad: "Unknown", ultimate: "Water Release: Wild Bubble Wave", used: "Water Style" },
-        { name: "Hanzo", village: "Hidden Rain", chakra: "Fire, Water", mom: "Unknown", dad: "Unknown", ultimate: "Salamander Poison Mist", used: "Poison Blade" },
-        { name: "Black Zetsu", village: "Akatsuki", chakra: "Yin-Yang", mom: "Kaguya Otsutsuki", dad: "Unknown", ultimate: "Will Manifestation", used: "Mayfly" },
-        { name: "White Zetsu", village: "Akatsuki", chakra: "Wood", mom: "Unknown", dad: "Unknown", ultimate: "Spore Technique", used: "Mayfly" },
-        { name: "Yugito Nii", village: "Hidden Cloud", chakra: "Fire", mom: "Unknown", dad: "Unknown", ultimate: "Tailed Beast Ball", used: "Two-Tails Transformation" },
-        { name: "Yagura Karatachi", village: "Hidden Mist", chakra: "Water", mom: "Unknown", dad: "Unknown", ultimate: "Coral Palm", used: "Three-Tails Transformation" },
-        { name: "Roshi", village: "Hidden Stone", chakra: "Fire, Earth, Lava", mom: "Unknown", dad: "Unknown", ultimate: "Lava Release Chakra Mode", used: "Four-Tails Transformation" },
-        { name: "Han", village: "Hidden Stone", chakra: "Fire, Water, Boil", mom: "Unknown", dad: "Unknown", ultimate: "Boil Release: Unrivaled Strength", used: "Steam Armor" },
-        { name: "Utakata", village: "Hidden Mist", chakra: "Water", mom: "Unknown", dad: "Unknown", ultimate: "Bubble Dome", used: "Bubble Ninjutsu" },
-        { name: "Fuu", village: "Hidden Waterfall", chakra: "Wind", mom: "Unknown", dad: "Unknown", ultimate: "Scale Powder", used: "Seven-Tails Transformation" },
-        { name: "Mifune", village: "Land of Iron", chakra: "None (Samurai)", mom: "Unknown", dad: "Unknown", ultimate: "Iai Slash", used: "Samurai Kenjutsu" },
-        { name: "Ao", village: "Hidden Mist", chakra: "Water", mom: "Unknown", dad: "Unknown", ultimate: "Byakugan Tracking", used: "Sensory Ninjutsu" },
-        { name: "Darui", village: "Hidden Cloud", chakra: "Lightning, Water, Storm", mom: "Unknown", dad: "Unknown", ultimate: "Black Panther", used: "Black Lightning" },
-        { name: "Chojuro", village: "Hidden Mist", chakra: "Water", mom: "Unknown", dad: "Unknown", ultimate: "Hiramekarei Release", used: "Twin-Sword Style" },
-        { name: "Kankuro", village: "Hidden Sand", chakra: "Wind, Earth", mom: "Karura", dad: "Rasa", ultimate: "Black Secret Technique", used: "Puppet Mastery" }
-    ];
+   
 
     const shinobiExtras = {
         "Naruto Uzumaki": { 
@@ -3579,7 +3488,33 @@ document.addEventListener('keydown', function(e) {
         closeModal();
     }
 });
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shinobi List</title>
+</head>
+<body>
 
+    <h1>Shinobi Database</h1>
+    <ul id="shinobi-container"></ul>
+
+    <script>
+        // If you are using the separate shinobi.json file:
+        fetch('shinobi.json')
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('shinobi-container');
+                data.forEach(shinobi => {
+                    const li = document.createElement('li');
+                    li.innerHTML = `<strong>${shinobi.name}</strong> - Village: ${shinobi.village}`;
+                    container.appendChild(li);
+                });
+            })
+            .catch(error => console.error('Error loading JSON:', error));
+    </script>
+</body>
+</html>
     </script>
     <!-- MODAL STRUCTURE - Add this before </body> -->
 <div id="arcModal" class="modal" onclick="closeModal()">
