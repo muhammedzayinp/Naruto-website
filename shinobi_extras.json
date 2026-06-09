@@ -1440,8 +1440,582 @@
       "9. She is a respected elder figure within the village, known for her sharp intuition and gentle, nurturing demeanor.",
       "10. She continues to honor Asuma's memory by training Mirai to uphold the 'Will of Fire' that defines their clan's legacy."
     ]
-  }
+  },
+    {
+  "Kurenai Yuhi": {
+    "clan": "Yuhi",
+    "quote": "You've grown so strong... But don't shoulder everything alone. Lean on those who care about you.",
+    "features": [
+      "Demonic Illusion: Tree Bind Death",
+      "Advanced Genjutsu",
+      "Kunai"
+    ],
+    "lore": [
+      "1. She was a highly skilled Kunoichi of Konohagakure who was promoted to Jonin status shortly before taking leadership of Team 8.",
+      "2. She was widely recognized as Konoha's premier genjutsu prodigy, possessing skills that could rival users of the Sharingan.",
+      "3. She served as a protective mentor and maternal figure to Hinata Hyuga, helping her build confidence away from her clan's harsh expectations.",
+      "4. She specialized in illusions, most notably her signature Demonic Illusion: Tree Bind Death, which traps targets in an illusory tree to execute a strike.",
+      "5. She was among the first Konoha shinobi to confront Itachi Uchiha and Kisame Hoshigaki when they infiltrated the village, though her genjutsu was famously countered by Itachi.",
+      "6. She shared a deeply devoted romantic relationship with Asuma Sarutobi, which began during their childhood years at the Academy.",
+      "7. Following Asuma's tragic death at the hands of the Akatsuki, she retired from active ninja duty due to her pregnancy.",
+      "8. She gave birth to a daughter named Mirai Sarutobi, raising her as a single mother while keeping Asuma's memory and ideals alive.",
+      "9. During the Pain invasion and subsequent crises, she was fiercely protected by Shikamaru Nara, who had promised Asuma he would look after her and the child.",
+      "10. In the peaceful years after the Fourth Great Ninja War, she lived quietly in Konoha, watching her daughter grow into a capable Chunin and bodyguard to the Hokage."
+    ]
+  },
+
+  "Boruto Uzumaki": {
+    "clan": "Uzumaki",
+    "quote": "I'm going to follow my own ninja path! I want to be a shinobi like Lord Sasuke!",
+    "features": [
+      "Karma",
+      "Jougan",
+      "Vanishing Rasengan",
+      "Uzuhiko"
+    ],
+    "lore": [
+      "1. He is the firstborn child of Naruto Uzumaki and Hinata Hyuga, inheriting a rebellious but fiercely loyal streak.",
+      "2. He initially resented his father's role as Hokage due to the neglect it caused his family, seeking attention through pranks.",
+      "3. He cheated in the Chunin Exams using the scientific ninja tool Kote, leading to a public disqualification by his father.",
+      "4. He was marked with a Karma seal by Momoshiki Otsutsuki, turning his body into a vessel for the alien entity's resurrection.",
+      "5. He trained under Sasuke Uchiha, adopting his master's style, fighting philosophy, and cloak during his rogue years.",
+      "6. He developed the Vanishing Rasengan, adding a subconscious lightning-nature transformation that makes the projectile invisible.",
+      "7. He became a target of the global community after Eida's Omnipotence swapped his life history with Kawaki's.",
+      "8. He spent three years training in exile with Sasuke, perfecting his kenjutsu and mastering advanced Otsutsuki powers.",
+      "9. He created the devastating Rasengan: Uzuhiko, utilizing the planet's rotation and centrifugal force to disorient enemies permanently.",
+      "10. He returned to Konoha as a rogue savior, fighting Code, the Claw Grimes, and the Divine Trees to protect his homeland."
+    ]
+  },
+
+  "Sarada Uchiha": {
+    "clan": "Uchiha",
+    "quote": "My dream is to become the Hokage! A path where I can connect with everyone!",
+    "features": [
+      "Sharingan",
+      "Chidori",
+      "Cherry Blossom Impact",
+      "Mangekyo Sharingan"
+    ],
+    "lore": [
+      "1. She is the daughter of Sasuke Uchiha and Sakura Haruno, combining the Uchiha's visual prowess with her mother's precise chakra control.",
+      "2. She grew up with an absent father, leading her to briefly question her lineage before a reunion solidified her family bonds.",
+      "3. She awakened her basic Sharingan at a young age out of emotional excitement and the desire to meet her father.",
+      "4. She serves as the tactical anchor of Team 7, frequently strategizing during high-stakes battles against Kara members.",
+      "5. She mastered the Chidori under her father's guidance, using her Sharingan to compensate for the tunnel-vision side effect.",
+      "6. She possesses monstrous physical strength, mimicking her mother's ability to focus chakra into devastating punches.",
+      "7. She was one of the very few individuals unaffected by Eida's reality-altering Omnipotence jutsu.",
+      "8. She awakened her Mangekyo Sharingan out of intense grief and a desperate plea to save Boruto from being hunted.",
+      "9. She spent the three-year timeskip lobbying the Eighth Hokage, Shikamaru Nara, to clear Boruto's name of treason.",
+      "10. She achieved the rank of Chunin and stepped into a leadership role among the village's youth during the Divine Tree crisis."
+    ]
+  },
+      "Mitsuki": {
+    "clan": "Unknown",
+    "quote": "Boruto... You are my sun. You illuminate my path and keep me whole.",
+    "features": [
+      "Sage Transformation",
+      "Soft Physique Modification",
+      "Snake Clone"
+    ],
+    "lore": [
+      "1. He is a synthetic human created by Orochimaru, engineered through numerous cloning experiments.",
+      "2. He left Otogakure to seek out Boruto Uzumaki, whom he views as his 'sun'.",
+      "3. He possesses an innate and highly advanced Sage Transformation.",
+      "4. His Sage Mode is so powerful that its premature use damages his body.",
+      "5. He can extend and contort his limbs using Soft Physique Modification.",
+      "6. He communicates with white snakes to gather information.",
+      "7. He was affected by Omnipotence and mistook Kawaki for his true sun.",
+      "8. He hunted Boruto during the timeskip using his full Sage Mode.",
+      "9. He later recognized Boruto's true identity.",
+      "10. He remains a core member of Team 7 while seeking his own independent will."
+    ]
+  },
+
+  "Konohamaru Sarutobi": {
+    "clan": "Sarutobi",
+    "quote": "There are no shortcuts to becoming Hokage! It's a long, hard road that you have to walk yourself!",
+    "features": [
+      "Rasengan",
+      "Monkey Summoning",
+      "Fire Release"
+    ],
+    "lore": [
+      "1. He is the grandson of the Third Hokage and nephew of Asuma Sarutobi.",
+      "2. He spent his childhood trying to gain recognition outside of his family name.",
+      "3. He became Naruto's first disciple.",
+      "4. He learned the Rasengan at a remarkably young age.",
+      "5. He defeated the Naraka Path of Pain during the assault on Konoha.",
+      "6. He inherited the monkey summoning contract.",
+      "7. He became a Jonin and leader of the new Team 7.",
+      "8. He mastered multiple nature transformations.",
+      "9. He acts as a protective older brother figure to Naruto's children.",
+      "10. He continues pursuing his dream of becoming Hokage."
+    ]
+  },
+
+  "Iruka Umino": {
+    "clan": "Umino",
+    "quote": "He's not the Nine-Tails Fox anymore. He is Naruto Uzumaki of Konohagakure... and he is my precious student.",
+    "features": [
+      "Sealing Barriers",
+      "Capture Restrictions",
+      "Teaching Degree"
+    ],
+    "lore": [
+      "1. He lost both of his parents during the Nine-Tails attack.",
+      "2. He initially struggled to accept Naruto.",
+      "3. He saved Naruto from Mizuki's manipulation.",
+      "4. He gave Naruto his first headband.",
+      "5. He served as a teacher at the Ninja Academy.",
+      "6. Naruto chose him to stand in as his father during his wedding.",
+      "7. He helped protect Naruto during the Fourth Great Ninja War.",
+      "8. He frequently treated Naruto to Ichiraku Ramen.",
+      "9. He eventually became the Academy Headmaster.",
+      "10. He remains one of Konoha's most respected mentors."
+    ]
+  },
+
+  "Shisui Uchiha": {
+    "clan": "Uchiha",
+    "quote": "Self-sacrifice... A nameless shinobi who protects peace from within its shadow. That is the true mark of a ninja.",
+    "features": [
+      "Kotoamatsukami",
+      "Body Flicker Jutsu",
+      "Fire Release"
+    ],
+    "lore": [
+      "1. He was renowned as Shisui of the Body Flicker.",
+      "2. He was Itachi Uchiha's closest friend and mentor.",
+      "3. He possessed the Mangekyo Sharingan technique Kotoamatsukami.",
+      "4. He intended to prevent the Uchiha coup peacefully.",
+      "5. Danzo Shimura stole one of his eyes.",
+      "6. He entrusted his remaining eye to Itachi.",
+      "7. He sacrificed his life to protect Konoha.",
+      "8. Kabuto could not revive him due to the lack of DNA.",
+      "9. Danzo later used his stolen eye during the Five Kage Summit.",
+      "10. His remaining eye eventually freed Itachi from Edo Tensei control."
+    ]
+  },
+
+  "Kushina Uzumaki": {
+    "clan": "Uzumaki",
+    "quote": "Thank you for letting me be your mother... and for letting Minato be your father... Thank you for being born to us!",
+    "features": [
+      "Adamantine Sealing Chains",
+      "Kyuubi Jinchuriki",
+      "Habanero Temper"
+    ],
+    "lore": [
+      "1. She was born in Uzushiogakure.",
+      "2. She was brought to Konoha because her chakra could suppress the Nine-Tails.",
+      "3. She fell in love with Minato Namikaze.",
+      "4. She became known as the Red Hot-Blooded Habanero.",
+      "5. She possessed the Adamantine Sealing Chains.",
+      "6. Tobi extracted the Nine-Tails during Naruto's birth.",
+      "7. She survived temporarily due to her immense vitality.",
+      "8. She sacrificed herself to protect Naruto.",
+      "9. Part of her chakra remained sealed inside Naruto.",
+      "10. Naruto inherited her characteristic verbal tic."
+    ]
+  },
+
+  "Suigetsu Hozuki": {
+    "clan": "Hozuki",
+    "quote": "The younger brother beats the older brother... That's how things work in the sword world.",
+    "features": [
+      "Hydrification Technique",
+      "Executioner's Blade",
+      "Water Release"
+    ],
+    "lore": [
+      "1. He was captured and experimented on by Orochimaru.",
+      "2. Sasuke recruited him as the first member of Team Hebi.",
+      "3. He belongs to the Hozuki clan.",
+      "4. He can liquefy his body at will.",
+      "5. He must remain hydrated to maintain his abilities.",
+      "6. He sought to collect the Seven Ninja Swords.",
+      "7. He can enhance his physical strength by manipulating water.",
+      "8. He fought Killer Bee alongside Team Taka.",
+      "9. He discovered an important scroll during the war.",
+      "10. He later resumed assisting Orochimaru."
+    ]
+  },
+      "Karin": {
+    "clan": "Uzumaki",
+    "quote": "If you're going to use me, use me until the very end... Sasuke.",
+    "features": [
+      "Mind's Eye of the Kagura",
+      "Heal Bite",
+      "Adamantine Attacking Chains"
+    ],
+    "lore": [
+      "1. She lived as a refugee in Kusagakure, where her mother died from overuse of her healing abilities.",
+      "2. She was saved by Sasuke Uchiha during the Chunin Exams, causing her to develop deep feelings for him.",
+      "3. Sasuke recruited her to Team Hebi because of her elite sensory abilities.",
+      "4. Her Mind's Eye of the Kagura allows her to track chakra signatures over vast distances.",
+      "5. She heals others by allowing them to bite her and absorb her chakra.",
+      "6. Sasuke used her as a shield during his battle with Danzo Shimura.",
+      "7. Despite everything, she forgave Sasuke after he apologized.",
+      "8. During the Fourth Great Ninja War, she awakened the Uzumaki clan's Adamantine Attacking Chains.",
+      "9. She assisted in the birth of Sarada Uchiha and remained close to the Uchiha family.",
+      "10. She currently manages one of Orochimaru's hideouts while supporting Sasuke's family."
+    ]
+  },
+
+  "Jugo": {
+    "clan": "Unknown",
+    "quote": "I don't want to kill anyone anymore... but the impulse keeps tearing me apart from the inside.",
+    "features": [
+      "Sage Transformation",
+      "Animal Telepathy",
+      "Chakra Absorption"
+    ],
+    "lore": [
+      "1. He belongs to a clan that naturally absorbs nature energy, causing uncontrollable violent impulses.",
+      "2. He sought Orochimaru's help to control his murderous urges.",
+      "3. His DNA became the foundation for Orochimaru's Curse Mark experiments.",
+      "4. He formed a close bond with Kimimaro, who was able to calm his rage.",
+      "5. He joined Team Taka because he saw Sasuke as Kimimaro's successor.",
+      "6. His Sage Transformation allows him to alter his body into powerful weapons.",
+      "7. He can communicate with animals, especially birds.",
+      "8. He can transfer his flesh and chakra to heal compatible individuals.",
+      "9. He fought alongside Sasuke during the Summit and Fourth Great Ninja War.",
+      "10. After the war, he returned to living peacefully in nature under Orochimaru's supervision."
+    ]
+  },
+    ,
+"Kimimaro": {
+  "clan": "Kaguya",
+  "quote": "It doesn't matter if I die. I am not alone... I live on inside Lord Orochimaru's heart forever.",
+  "features": [
+    "Shikotsumyaku",
+    "Dance of the Seedling Fern",
+    "Curse Mark of Earth"
+  ],
+  "lore": [
+    "1. He was the sole survivor of the bloodthirsty Kaguya clan, who locked him in a cage due to their fear of his extreme abilities.",
+    "2. He was found and adopted by Orochimaru, developing a fierce devotion to the Sannin.",
+    "3. He possessed the rare Kekkei Genkai Shikotsumyaku, allowing him to manipulate his skeletal structure.",
+    "4. He was Orochimaru's original intended vessel before illness ruined his health.",
+    "5. He led the Sound Four and enforced Sasuke's retrieval.",
+    "6. He forced his dying body to move through sheer willpower and Curse Mark chakra.",
+    "7. His Dance of the Seedling Fern created a forest of bone spikes.",
+    "8. He died from illness moments before killing Gaara.",
+    "9. His death changed Orochimaru's plans for obtaining the Sharingan.",
+    "10. He was reanimated during the Fourth Great Ninja War."
+  ]
+},
+
+"Mifune": {
+  "clan": "Unknown",
+  "quote": "A ninja refines his jutsu, but a samurai refines his soul. My blade will never waver before your tricks.",
+  "features": [
+    "Kurosawa (Sword)",
+    "Iaijutsu",
+    "Samurai Armor"
+  ],
+  "lore": [
+    "1. He is the General of the Land of Iron.",
+    "2. He mastered Iaijutsu, a rapid-draw sword style.",
+    "3. He served as the moderator of the Five Kage Summit.",
+    "4. He was manipulated by Danzo using Kotoamatsukami.",
+    "5. He led the Fifth Division during the Fourth Great Ninja War.",
+    "6. He fought Hanzo of the Salamander in a legendary duel.",
+    "7. He proved conviction could overcome powerful ninjutsu.",
+    "8. He values honor above all else.",
+    "9. He fought White Zetsu forces alongside the Allied Shinobi Forces.",
+    "10. He continues to lead the Land of Iron during the Boruto era."
+  ]
+},
+
+"Ao": {
+  "clan": "Unknown",
+  "quote": "A shinobi's duty never truly ends... Even if you lose your path, the past always finds a way to call you back.",
+  "features": [
+    "Byakugan Eye",
+    "Barrier Talismans",
+    "Scientific Prosthetics"
+  ],
+  "lore": [
+    "1. He was a veteran sensor-nin of Kirigakure and Mei Terumi's bodyguard.",
+    "2. He possessed a stolen Byakugan hidden beneath an eyepatch.",
+    "3. He used sealing talismans to protect the eye.",
+    "4. He exposed Danzo's manipulation at the Five Kage Summit.",
+    "5. He served in the Allied Shinobi Forces headquarters.",
+    "6. He seemingly died when the Ten-Tails attacked the HQ.",
+    "7. He survived but suffered catastrophic injuries.",
+    "8. He received scientific prosthetics.",
+    "9. He later joined Kara as an Outer.",
+    "10. He died protecting Boruto from a falling boulder."
+  ]
+},
+    ,
+"Code": {
+  "clan": "Unknown",
+  "quote": "Your names are written on my hit list... and I intend to carve them into your graves one by one.",
+  "features": [
+    "White Karma",
+    "Claw Marks",
+    "Claw Grimes"
+  ],
+  "lore": [
+    "1. He was the last remaining inner member of Kara and worshipped the Otsutsuki clan.",
+    "2. He survived Isshiki's vessel trials and obtained the White Karma.",
+    "3. Jigen installed limiters on him to suppress his immense power.",
+    "4. He uses Claw Marks as a teleportation network.",
+    "5. He allied with Eida and Daemon after Isshiki's death.",
+    "6. Amado removed his limiters, unlocking his full power.",
+    "7. He created the Claw Grimes using the Ten-Tails.",
+    "8. Boruto defeated him using Rasengan: Uzuhiko.",
+    "9. His Claw Grimes evolved into independent Divine Trees.",
+    "10. He remains a dangerous rogue pursued by both Konoha and his own creations."
+  ]
+},
+
+"Eida": {
+  "clan": "Unknown",
+  "quote": "You can't help but love me. It's not a choice... it's an absolute law written into your own DNA.",
+  "features": [
+    "Omnipotence",
+    "Senrigan",
+    "Levitation"
+  ],
+  "lore": [
+    "1. She is a cyborg created by Amado.",
+    "2. She possesses the all-seeing Senrigan.",
+    "3. Her charm causes others to become infatuated with her.",
+    "4. Otsutsuki and blood relatives are immune to her ability.",
+    "5. She resents Amado for depriving her of true love.",
+    "6. She moved to Konoha to pursue Kawaki.",
+    "7. She subconsciously activated Omnipotence.",
+    "8. Omnipotence swapped Boruto's and Kawaki's histories.",
+    "9. She secretly apologized to Boruto for what happened.",
+    "10. She currently lives under protection in Konoha."
+  ]
+},
+
+"Daemon": {
+  "clan": "Unknown",
+  "quote": "The moment you even think about hurting me... you've already ended your own life!",
+  "features": [
+    "Intent Reflection",
+    "Monstrous Taijutsu",
+    "Extreme Speed"
+  ],
+  "lore": [
+    "1. He is Eida's younger brother and another cyborg created by Amado.",
+    "2. He possesses the ability to reflect killing intent back onto enemies.",
+    "3. An enemy's lethal thoughts are turned against themselves instantly.",
+    "4. His reflection ability works best when he is touching another person.",
+    "5. Despite his childish nature, he possesses overwhelming physical strength.",
+    "6. He effortlessly defeated Kawaki and Code in hand-to-hand combat.",
+    "7. He constantly accompanies Eida as her protector.",
+    "8. He noticed Boruto's increase in power after the timeskip.",
+    "9. He is immune to Eida's charm because they are siblings.",
+    "10. He resides in Konoha and acts as an ultimate deterrent against threats."
+  ]
+},
+    ,
+"Danzo Shimura": {
+  "clan": "Shimura",
+  "quote": "Sacrifices are necessary. A shinobi must bear the darkness to protect the light.",
+  "features": [
+    "Izanagi",
+    "Kotoamatsukami",
+    "Wind Release"
+  ],
+  "lore": [
+    "1. He was Hiruzen Sarutobi's lifelong rival and teammate.",
+    "2. He founded and commanded the Root division of ANBU.",
+    "3. He believed that harsh methods were necessary to protect Konoha.",
+    "4. He orchestrated many events from the shadows, including the Uchiha massacre.",
+    "5. He stole numerous Sharingan and implanted them in his right arm.",
+    "6. He possessed Shisui Uchiha's Mangekyo Sharingan.",
+    "7. He became the Sixth Hokage candidate after Pain's invasion.",
+    "8. He attempted to manipulate Mifune using Kotoamatsukami.",
+    "9. He fought Sasuke Uchiha during the Five Kage Summit arc.",
+    "10. He died by activating a sealing technique in a failed attempt to take Sasuke and Obito with him."
+  ]
+},
+
+"Shizune": {
+  "clan": "Unknown",
+  "quote": "Lady Tsunade entrusted me with this responsibility, and I won't let her down.",
+  "features": [
+    "Medical Ninjutsu",
+    "Poison Techniques",
+    "Chakra Scalpel"
+  ],
+  "lore": [
+    "1. She is the niece of Dan Kato and the assistant of Tsunade.",
+    "2. She traveled alongside Tsunade for many years.",
+    "3. She mastered advanced medical ninjutsu.",
+    "4. She cared deeply for Tsunade and supported her during difficult times.",
+    "5. She often looked after Tonton, Tsunade's pet pig.",
+    "6. She participated in the search for Tsunade alongside Naruto and Jiraiya.",
+    "7. She was killed by Pain during the invasion of Konoha.",
+    "8. She was later revived through Nagato's Samsara of Heavenly Life Technique.",
+    "9. She became an important medical administrator after the war.",
+    "10. She continued serving Konoha during the Boruto era."
+  ]
+},
+
+"White Zetsu": {
+  "clan": "Unknown",
+  "quote": "Hehehe... Watching people struggle is always entertaining.",
+  "features": [
+    "Spore Technique",
+    "Transformation",
+    "Wood Release"
+  ],
+  "lore": [
+    "1. White Zetsu was created from humans trapped by the Infinite Tsukuyomi.",
+    "2. He served as one half of the original Zetsu alongside Black Zetsu.",
+    "3. He worked as a spy and intelligence gatherer for the Akatsuki.",
+    "4. He could perfectly mimic the appearance and chakra of others.",
+    "5. He assisted Obito Uchiha in numerous operations.",
+    "6. Thousands of White Zetsu clones participated in the Fourth Great Ninja War.",
+    "7. He used spores to drain the chakra of enemies.",
+    "8. He was capable of using Wood Release techniques.",
+    "9. Many White Zetsu were defeated by the Allied Shinobi Forces.",
+    "10. Their existence was ultimately tied to Kaguya Otsutsuki's plans."
+  ]
+},
+    ,
+"Yugito Nii": {
+  "clan": "Unknown",
+  "quote": "As the Two-Tails' jinchuriki, I carry the pride of Kumogakure wherever I go.",
+  "features": [
+    "Two-Tails Transformation",
+    "Blue Cat Flames",
+    "Fire Release"
+  ],
+  "lore": [
+    "1. She was a kunoichi of Kumogakure and the jinchuriki of Matatabi, the Two-Tails.",
+    "2. She was highly respected within the Hidden Cloud Village.",
+    "3. She achieved remarkable control over her Tailed Beast's power.",
+    "4. She possessed unique blue flames while transformed.",
+    "5. She was tasked with capturing Hidan and Kakuzu after they entered the Land of Fire.",
+    "6. She fought the Akatsuki duo with great skill and determination.",
+    "7. Despite her strength, she was eventually defeated and captured.",
+    "8. The Akatsuki extracted Matatabi, causing her death.",
+    "9. She was later reanimated during the Fourth Great Ninja War.",
+    "10. She fought against the Allied Shinobi Forces under Kabuto's control."
+  ]
+},
+
+"Roshi": {
+  "clan": "Unknown",
+  "quote": "True strength is forged through discipline and understanding, not mere power.",
+  "features": [
+    "Lava Release",
+    "Four-Tails Transformation",
+    "Boil Release"
+  ],
+  "lore": [
+    "1. He was a shinobi of Iwagakure and the jinchuriki of Son Goku, the Four-Tails.",
+    "2. He left the Hidden Stone Village after disagreements with the Tsuchikage.",
+    "3. He spent years traveling and training alone.",
+    "4. He mastered Lava Release techniques.",
+    "5. He developed a close relationship with Son Goku.",
+    "6. He was eventually hunted down by the Akatsuki.",
+    "7. Kisame Hoshigaki helped capture him.",
+    "8. The Four-Tails was extracted from him, resulting in his death.",
+    "9. He was revived during the Fourth Great Ninja War.",
+    "10. Naruto eventually freed him from Kabuto's control."
+  ]
+},
+
+"Yagura Karatachi": {
+  "clan": "Karatachi",
+  "quote": "Even a Mizukage must bear burdens that others cannot understand.",
+  "features": [
+    "Three-Tails Transformation",
+    "Water Mirror Technique",
+    "Coral Techniques"
+  ],
+  "lore": [
+    "1. He served as the Fourth Mizukage of Kirigakure.",
+    "2. He was the jinchuriki of Isobu, the Three-Tails.",
+    "3. He ruled during the Bloody Mist era.",
+    "4. He was secretly manipulated by Obito Uchiha.",
+    "5. His reign contributed to Kirigakure's brutal reputation.",
+    "6. He possessed exceptional Water Release abilities.",
+    "7. He eventually died under mysterious circumstances.",
+    "8. Isobu later roamed freely without a host.",
+    "9. He was reanimated during the Fourth Great Ninja War.",
+    "10. Naruto helped release him from Kabuto's control."
+  ]
+},
+    ,
+"Han": {
+  "clan": "Unknown",
+  "quote": "Power is nothing without the discipline to guide it through the steam of battle.",
+  "features": [
+    "Five-Tails (Kokuo)",
+    "Steam Armor",
+    "Eruptive Propulsion"
+  ],
+  "lore": [
+    "1. He was a towering, heavily armored shinobi from Iwagakure known as the Steam Ninja.",
+    "2. He served as the jinchuriki of the Five-Tails, Kokuo.",
+    "3. He wore a specialized suit of armor that concealed most of his body.",
+    "4. He mastered Steam Release techniques to enhance his speed and power.",
+    "5. His fighting style focused on overwhelming force and momentum.",
+    "6. He was eventually captured by the Akatsuki and lost his Tailed Beast.",
+    "7. His death weakened Iwagakure's military strength.",
+    "8. He was reanimated during the Fourth Great Ninja War.",
+    "9. He fought Naruto and Killer Bee while under Kabuto's control.",
+    "10. He was freed after Naruto broke the hold placed on the Tailed Beasts."
+  ]
+},
+
+"Utakata": {
+  "clan": "Unknown",
+  "quote": "Trusting others only leads to pain... but perhaps there are exceptions.",
+  "features": [
+    "Six-Tails (Saiken)",
+    "Bubble Ninjutsu",
+    "Soap Bubble Techniques"
+  ],
+  "lore": [
+    "1. He was a missing-nin and the jinchuriki of the Six-Tails, Saiken.",
+    "2. He specialized in unique bubble-based ninjutsu.",
+    "3. He was once the student of Harusame.",
+    "4. He mistakenly believed his master had betrayed him.",
+    "5. He wandered alone for many years.",
+    "6. He formed a bond with a young girl named Hotaru.",
+    "7. He was eventually captured by Pain.",
+    "8. The Akatsuki extracted the Six-Tails, resulting in his death.",
+    "9. He was reanimated during the Fourth Great Ninja War.",
+    "10. He later found peace after being released from Edo Tensei."
+  ]
+},
+
+"Fuu": {
+  "clan": "Unknown",
+  "quote": "Life's more fun when you make friends and keep smiling!",
+  "features": [
+    "Seven-Tails (Chomei)",
+    "Flight",
+    "Insect Wings"
+  ],
+  "lore": [
+    "1. She was the jinchuriki of Chomei, the Seven-Tails.",
+    "2. She originated from Takigakure, the Hidden Waterfall Village.",
+    "3. She was known for her cheerful and energetic personality.",
+    "4. She possessed the ability to fly using chakra wings.",
+    "5. She dreamed of making friends with everyone around her.",
+    "6. Despite her optimism, she lived a lonely life as a jinchuriki.",
+    "7. She was eventually captured by the Akatsuki.",
+    "8. The extraction of Chomei resulted in her death.",
+    "9. She was reanimated during the Fourth Great Ninja War.",
+    "10. Naruto's compassion helped free her spirit from control."
+  ]
+},
+    
 }
+
 
 
 
