@@ -1185,7 +1185,6 @@
     margin: 5px 0;
 }
     </style>
-</head>
 <body onmousemove="updateMouseGlow(event)">
 
     <!-- Global FX -->
@@ -1511,21 +1510,19 @@
         </footer>
     </div>
 
-    <!-- MODAL FOR ARC DETAILS -->
-    <div id="arcModal" class="modal" onclick="closeModal()">
-        <div class="modal-content" onclick="event.stopPropagation()">
-            <div class="modal-close" onclick="closeModal()">✕</div>
-            <h2 id="modalTitle"></h2>
-            <div class="modal-sub" id="modalSub"></div>
-            <div class="modal-desc" id="modalDesc"></div>
-            <div class="modal-details" id="modalDetails"></div>
-        </div>
+    
+    <!-- MODAL STRUCTURE - Add this before </body> -->
+<div id="arcModal" class="modal" onclick="closeModal()">
+    <div class="modal-content" onclick="event.stopPropagation()">
+        <div class="modal-close" onclick="closeModal()">✕</div>
+        <h2 id="modalTitle">Introduction Arc</h2>
+        <div class="modal-sub" id="modalSub">EP 1–5 · NARUTO</div>
+        <div class="modal-desc" id="modalDesc"></div>
+        <div class="modal-details" id="modalDetails"></div>
     </div>
+</div>
 
-</body>
-</html>
-
-    <!-- ═══════════════════════════════════════
+ <!-- ═══════════════════════════════════════
          JAVASCRIPT
     ═══════════════════════════════════════ -->
     <script>
@@ -1954,18 +1951,8 @@ document.addEventListener('keydown', function(e) {
         closeModal();
     }
 });
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Shinobi List</title>
-</head>
-<body>
 
-    <h1>Shinobi Database</h1>
-    <ul id="shinobi-container"></ul>
-
-    <script>
+    
         // If you are using the separate shinobi.json file:
         fetch('shinobi.json')
             .then(response => response.json())
@@ -1981,17 +1968,6 @@ document.addEventListener('keydown', function(e) {
     </script>
 </body>
 </html>
-    </script>
-    <!-- MODAL STRUCTURE - Add this before </body> -->
-<div id="arcModal" class="modal" onclick="closeModal()">
-    <div class="modal-content" onclick="event.stopPropagation()">
-        <div class="modal-close" onclick="closeModal()">✕</div>
-        <h2 id="modalTitle">Introduction Arc</h2>
-        <div class="modal-sub" id="modalSub">EP 1–5 · NARUTO</div>
-        <div class="modal-desc" id="modalDesc"></div>
-        <div class="modal-details" id="modalDetails"></div>
-    </div>
-</div>
 
-</body>
-</html>
+   
+
