@@ -1954,17 +1954,29 @@ document.addEventListener('keydown', function(e) {
 
     
         // If you are using the separate shinobi.json file:
-        fetch('shinobi.json')
-            .then(response => response.json())
-            .then(data => {
-                const container = document.getElementById('shinobi-container');
-                data.forEach(shinobi => {
-                    const li = document.createElement('li');
-                    li.innerHTML = `<strong>${shinobi.name}</strong> - Village: ${shinobi.village}`;
-                    container.appendChild(li);
-                });
-            })
-            .catch(error => console.error('Error loading JSON:', error));
+      Promise.all([
+    fetch('shinobi.json').then(response => response.json()),
+    fetch('shinobi_extras.json').then(response => response.json())
+])
+.then(([mainData, extraData]) => {
+    const allShinobi = [...mainData, ...extraData];
+
+    const container = document.getElementById('shinobi-container');
+
+    allShinobi.forEach(shinobi => {
+        const li = document.createElement('li');
+
+        li.innerHTML = `
+            <strong>${shinobi.name}</strong>
+            - Village: ${shinobi.village}
+        `;
+
+        container.appendChild(li);
+    });
+})
+.catch(error => {
+    console.error('Error loading shinobi data:', error);
+});
     </script>
 </body>
 </html>
